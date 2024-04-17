@@ -1,0 +1,3268 @@
+[
+    {
+      "Name": "(Café) Rosengarten",
+      "Straße": "Carusufer 11",
+      "PLZ": "01099",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "Es war das erste Interhotel der Stadt mit einer Kapazität von über 100 Betten. Zeitweise wurde es als Gästehaus des Rates der Stadt und des Bezirkes genutzt. Während der DDR war es ein Tanz- und Weinrestaurant mit Hallenbar. 1974 war das Hotel als Interhotel \"Astoria\" bekannt. 1988 war es noch als Restaurant \"Rendezvous\" vorhanden.",
+      "latitude": 51.06062555,
+      "longitude": 13.756615400000005
+    },
+    {
+      "Name": "(Café) Toskana",
+      "Straße": "Schillerplatz 7",
+      "PLZ": "01309",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Café",
+      "Betriebszeitraum": "1897 - mind. 1988",
+      "Historie": "Am 15.04.1897 kaufte Friedrich Louis Köhler das Grundstück, auf welchem er zunächst eine Kaffee-Rösterei mit Ausschank betrieb. 1906 übernahm der Konditormeister Zimmermann das Gebäude und baute eine Backstube an. Damit eröffnete er die Konditorei \"Toskana\". 1948 wurde das Café zwangsweise an die HO verpachtet. 1952 fand die Eröffnung des Eispavillon statt. Die Spezialität war die Dresdner Eierschecke. 1956 gab es einen großen Brand. Ab 1975 war es ein HO-Café.",
+      "latitude": 51.0528833,
+      "longitude": 13.8081228
+    },
+    {
+      "Name": "(Gasthaus) Zum Frosch",
+      "andere frühere Namen (Zeitraum)": "Gasthof Cotta",
+      "Straße": "Raimundstraße 1",
+      "PLZ": "01157",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1862 - mind. 1982",
+      "Ruhetage": "So/Mo",
+      "Historie": "1886 entstand aus dem 1862 errichteten Gasthof ein Ball-Etablissement.",
+      "latitude": 51.0572248,
+      "longitude": 13.6879663
+    },
+    {
+      "Name": "(Gaststätte) Goldener Pfeil",
+      "Straße": "Rudolfstraße 2",
+      "PLZ": "01097",
+      "latitude": 51.0684912,
+      "longitude": 13.7405233
+    },
+    {
+      "Name": "(Höhen-)Café Leubnitz",
+      "Straße": "Hoher Rand 1",
+      "PLZ": "01219",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "Konsumcafé",
+      "latitude": 51.0107353,
+      "longitude": 13.772012197410554
+    },
+    {
+      "Name": "(Sport-)Casino Tennisplätze Weißer Hirsch",
+      "Straße": "Kurparkstraße 7",
+      "PLZ": "01324",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 51.063850450000004,
+      "longitude": 13.826813218911486
+    },
+    {
+      "Name": "(Zum) Rankeschlösschen",
+      "Straße": "Leuckartstraße 2",
+      "PLZ": "01139",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "\"1971 Speiserestaurant, nur Sonnabend u. Sonntag Mittagstisch, umfangreiches Speisenangebot, Außenplätze",
+      "latitude": 51.086835,
+      "longitude": 13.7005956
+    },
+    {
+      "Name": "(Zum) Ratskeller Trachau",
+      "Straße": "Alttrachau 14",
+      "PLZ": "01139",
+      "Art der Gastro": "Speiserestaurant",
+      "Historie": "\"Angenehmer Familienaufenthalt. Eigene Schlächterei, 2 vorschriftsmäßige Bundeskegelbahnen\"",
+      "latitude": 51.085172650000004,
+      "longitude": 13.710866666124105
+    },
+    {
+      "Name": "(Zum) Reichsapfel",
+      "Straße": "Schweizstraße 8",
+      "PLZ": "01259",
+      "Historie": "\"Restaurant mit eigener Fleischerei\"",
+      "latitude": 50.9992269,
+      "longitude": 13.8376341
+    },
+    {
+      "Name": "(Zum) Turmhaus (Cotta)",
+      "andere frühere Namen (Zeitraum)": "Gasthof zum Turmhaus",
+      "Straße": "Grillparzer Straße 51",
+      "PLZ": "01157",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "So/Mo",
+      "Historie": "\"Feine Küche u. gepfl. Biere (mit Klubkino), gastronomische Versorgung vor Filmbeginn\"",
+      "latitude": 51.0525847,
+      "longitude": 13.682276634478427
+    },
+    {
+      "Name": "(Zur) Erholung",
+      "Straße": "Ullersdorfer Straße 17",
+      "PLZ": "01324",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "Mi/Do",
+      "Historie": "\"Das Restaurant 'Zur Erholung', eine kleine Ausflugsgaststätte am Rande der Dresdner Heide hatte 1971 nur Sa/So Mittagstisch im Angebot.\"",
+      "latitude": 51.0648596,
+      "longitude": 13.8573047
+    },
+    {
+      "Name": "(Zur) Postschänke",
+      "Straße": "Schandauer Straße 55",
+      "PLZ": "01277",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.04057265,
+      "longitude": 13.803474962634835
+    },
+    {
+      "Name": "Äberlausitzer Töppl",
+      "Straße": "Hauptstraße 14",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant; Spezialitätenrestaurant",
+      "Ruhetage": 0,
+      "latitude": 51.05911612386896,
+      "longitude": 13.742881211187417
+    },
+    {
+      "Name": "Aktiv",
+      "andere frühere Namen (Zeitraum)": "Damm's Etablissement (1869), Reichsadler, ((Hotel) Deutsche) Reichskrone, Reichsbanner",
+      "Straße": "Königsbrücker Straße 76",
+      "PLZ": "01099",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1869 - 1987",
+      "Plätze": 2600,
+      "Historie": "Zeitweise Versammlungsort der Neustädter Sozialdemokraten. Es wurde auch als Turnhalle und vom Aeros-Variete genutzt. 1987 Begann die Sanierung.",
+      "latitude": 51.0713538,
+      "longitude": 13.7510846
+    },
+    {
+      "Name": "Aktivist",
+      "Straße": "Zwinglistraße 52",
+      "PLZ": "01309",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1958 - 1994",
+      "Historie": "Nach 1994 wurde es umbenannt in Mandarin.",
+      "latitude": 51.036312,
+      "longitude": 13.7857929
+    },
+    {
+      "Name": "Alaungarten",
+      "Straße": "Alaunstraße 51",
+      "PLZ": "01099",
+      "latitude": 51.06739225,
+      "longitude": 13.751900084989813
+    },
+    {
+      "Name": "Altmarktkeller",
+      "Straße": "Töpferstraße 20",
+      "PLZ": "01067",
+      "latitude": 51.0524443,
+      "longitude": 13.7403816
+    },
+    {
+      "Name": "Am Gewandhaus",
+      "Spitznamen": "Linkshänder/ Linkhänder-Gaststätte",
+      "Straße": "Gewandhausstraße 3-7",
+      "PLZ": "01067",
+      "Art der Gastro": "Speiserestaurant, Nichtrauchergaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1957/58 - mind. 1988 || 1967 - 1990 || 1997 bis heute",
+      "Ruhetage": 0,
+      "Historie": "Die Gaststätte erhielt den Spitznamen wegen einer Leuchtreklame mit vertauschtem Besteck. Sie war eine Nichtrauchergaststätte mit Frühstücksversorgung.",
+      "latitude": 51.0490546,
+      "longitude": 13.7421064
+    },
+    {
+      "Name": "Am Müllerbrunnen",
+      "Straße": "Chemnitzer Straße 96",
+      "PLZ": "01187",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "vor 1933 Filiale Bankhaus Arnhold; war noch lange danach ein Bistro, heute u.a. Reisebüro \"Wintraken\"",
+      "latitude": 51.029679,
+      "longitude": 13.707183
+    },
+    {
+      "Name": "Am Rudollf-Renner-Platz",
+      "andere frühere Namen (Zeitraum)": "Zum Friedrich-August-Hof (mind. 1910 - 1940)",
+      "Straße": "Rudolf-Renner-Straße 41",
+      "PLZ": "01159",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": 0,
+      "latitude": 51.04537175,
+      "longitude": 13.693638391951984
+    },
+    {
+      "Name": "Am Trachenberger Platz",
+      "andere frühere Namen (Zeitraum)": "Voigt's Gasthaus",
+      "Straße": "Trachenberger Straße 19",
+      "PLZ": "01129",
+      "latitude": 51.0842501,
+      "longitude": 13.7273951
+    },
+    {
+      "Name": "Am Waldschlößchen",
+      "andere frühere Namen (Zeitraum)": "Gastwirtschaft von Hermann Härtel (mind. 1930 - 1940)",
+      "Straße": "Bischofsweg 37",
+      "PLZ": "01099",
+      "Historie": "heute Wohnhaus",
+      "latitude": 51.0678184,
+      "longitude": 13.763044415390784
+    },
+    {
+      "Name": "Am Zwinger",
+      "Spitznamen": "\"Freßwürfel\"",
+      "Straße": "Wilsdrufferstraße 24",
+      "PLZ": "01067",
+      "Art der Gastro": "Tanzgaststätte",
+      "Betriebszeitraum": "1967 - 10.02.1992",
+      "Plätze": 1465,
+      "Historie": "War der größter Gaststättenkomplex der DDR. Er enthiet sieben gastronomische Einrichtungen: Radeberger Bierkeller, Mokkastube, Espresso, Hallenbar, Weinrestaurant, Jugendtanzcafé Festival, Selbstbedienungsrestaurant Gastronom. Mittlerweile ist das Gebäude kommplett abgerissen.",
+      "latitude": 51.0509864,
+      "longitude": 13.7347733
+    },
+    {
+      "Name": "An der Dreikönigskirche",
+      "Straße": "An der Dreikönigskirche 7",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "WE",
+      "latitude": 51.0609338,
+      "longitude": 13.7424897
+    },
+    {
+      "Name": "An der Rennbahn",
+      "andere frühere Namen (Zeitraum)": "Deutscher Sport; Gasthof \"Zum Deutschen Sport\"",
+      "Straße": "Winterbergstraße 96",
+      "PLZ": "01237",
+      "Betriebszeitraum": "1891 - 1988 || seit 01.10.1994 ",
+      "Historie": "\"Behagl. Klubzimmer, Gesellschaftssaal, großer Garten, Bundeskegelbahn.\" Die Gaststätte \"Zum Deutschen Sport\" wurde zeitweise in \"An der Rennbahn\" umbenannt. Zwischen 1988 und 1991 geschlossen. Seit dem 01.04.1991 war es auch ein Hotel.",
+      "latitude": 51.02435245,
+      "longitude": 13.79593734467236
+    },
+    {
+      "Name": "An der Universität",
+      "Straße": "Müncher Platz 1",
+      "PLZ": "01069",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.03009306435625, 
+      "longitude": 13.722576541870982
+    },
+    {
+      "Name": "Artesischer Brunnen",
+      "andere frühere Namen (Zeitraum)": "Zum Artesischen Brunnen, Hein's Restaurant",
+      "Straße": "Antonstraße 4",
+      "PLZ": "01097",
+      "Betriebszeitraum": "? - mind. 1988",
+      "Historie": "Benannt nach dem Artesichen Brunnen am Albertplatz. Mittlerweile abgerissen.",
+      "latitude": 51.0638565,
+      "longitude": 13.7464368
+    },
+    {
+      "Name": "Augsburger Hof",
+      "andere frühere Namen (Zeitraum)": "Rübezahl/ Zum Rübezahl (1903 - 1945)",
+      "Straße": "Augsburger Straße 49",
+      "PLZ": "01309",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1946 - mind. 1988",
+      "Ruhetage": "So/Mo",
+      "Historie": "Um 1900 wurde das Gebäude als Geschäftshaus erbaut. Ab 1946 wurde es als altdeutsche Bierstube eingerichtet. Der Name \"Augsburger Hof\" entstand während der DDR.",
+      "latitude": 51.0489219,
+      "longitude": 13.7900235
+    },
+    {
+      "Name": "Bahnhofgaststätte Klotzsche",
+      "andere frühere Namen (Zeitraum)": "Hotel zum Bahnhof, Bahnhofshotel",
+      "Straße": "Zur neuen Brücke 4",
+      "PLZ": "01109",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "erbaut 1884; 1974 -1988 (HO)",
+      "Historie": "(angegebener Zeitraum für HO-Nutzung) Das Bahnhofsgebäude mit Biergarten wurde um 1884 gebaut.",
+      "latitude": 51.1142842,
+      "longitude": 13.7885191
+    },
+    {
+      "Name": "Bei Harry",
+      "Straße": "Sebnitzer Straße 36",
+      "PLZ": "01199",
+      "latitude": 51.0678584,
+      "longitude": 13.758642773487516
+    },
+    {
+      "Name": "Berghof Zschertnitz",
+      "Straße": "Räcknitzhöhe 35",
+      "PLZ": "01217",
+      "Art der Gastro": "Tanzgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1944 - mind. 1988",
+      "Öffnungszeiten": "Sa, So & Mi ab 4 Uhr Tanz",
+      "Historie": "Erbaut wurde die Gaststätte während des zweiten Weltkrieges und 1944 eröffnet.",
+      "latitude": 51.0236339,
+      "longitude": 13.7428215
+    },
+    {
+      "Name": "Bergwirtschaft Borsberg",
+      "Straße": "Borsbergstraße 24d",
+      "PLZ": "01309",
+      "Betriebszeitraum": "ca. 1790",
+      "Historie": "\"Der seit langer Zeit in Bergwirtschaftung der Familie Bähr befindliche Borsberg feiert insofern ein Jubiläum, als gerade 100 Jahre vorüber sind, seitdem Graf Marcolini, Hausminister und Jugendfreund Friedrich August des Gerechten, dieauf dem Gipfel errichtete sogenannte Einsiedelgrotte, sowie die Dienerhütten, welche seitdem entfernt wurden, errichtete.\" (5. August 1890)",
+      "Bilder": [
+        {
+        "url":"https://fotothek.slub-dresden.de/fotos/df/hauptkatalog/0429000/df_hauptkatalog_0429207.jpg",
+        "alt":"Halbseitenansicht der Bergwirstschaft Borsberg mit Gästen auf der Terasse von 1967.",
+        "bildunterschrift":"Mehlig, Paul: Borsberg bei Dresden. Bergwirtschaft Borsberg, 1967"
+        }
+      ],
+      "latitude": 51.0466751,
+      "longitude": 13.7722675
+    },
+    {
+      "Name": "Bergwirtschaft Wilder Mann",
+      "andere frühere Namen (Zeitraum)": "Bergschänke (1882), Bergrestaurant Trachau (1899-1949), Bergwirtschaft Trachau (1949), Bergkeller",
+      "Straße": "Großenhainer Straße 243",
+      "PLZ": "01129",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "Mo/Di",
+      "Historie": "1899 erfolgte ein Neubau mit entsprechender Umbenennung von \"Bergschänke\" in \"Bergrestaurant Trachau\". 1936 wurde die Gaststätte zwangsversteigert und 1949 erneut umbenannt.",
+      "Bilder": [
+        {
+        "url":"https://fotothek.slub-dresden.de/fotos/df/bo-pos-25/0000000/df_bo-pos-25_0000275.jpg",
+        "alt":"Viele tanzende Jugendliche vor einer Bühne mit Liveband",
+        "bildunterschrift":"Borchert, Christian: Jugendtanz in der HO-Gaststätte 'Bergwirtschaft', 1981"
+        }
+      ],
+      "latitude": 51.0983444,
+      "longitude": 13.7160853
+    },
+    {
+      "Name": "Berolina",
+      "Straße": "Kesselsdorfer Straße 17",
+      "PLZ": "01159",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "In der DDR ist es ein modernes Restaurant mit Klubraum, indem täglich Konzert und Tanz stattfinden.",
+      "latitude": 51.043689073291546,
+      "longitude": 13.70012654002238
+    },
+    {
+      "Name": "Bierbar \"Am Thor\"",
+      "andere frühere Namen (Zeitraum)": "Das Thor",
+      "Straße": "Hauptstraße 35",
+      "PLZ": "01097",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1979 - mind. 1988",
+      "Historie": "An der Stelle der Gaststätte befand sich vor ca. 300 Jahren ein Stadttor, das \"Schwarze Thor\" genannt. 1979 eröffnet.",
+      "latitude": 51.06167575858599,
+      "longitude": 13.74451408420112
+    },
+    {
+      "Name": "Bierbar Süd",
+      "Straße": "Kreischaer Straße 2",
+      "PLZ": "01219",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0277404,
+      "longitude": 13.7602306
+    },
+    {
+      "Name": "Café-Restaurant Friedrichstadt",
+      "andere frühere Namen (Zeitraum)": "Bramsch, Bierwirtschaft",
+      "Straße": "Friedrichstraße 52",
+      "PLZ": "01067",
+      "Betriebszeitraum": "1749 - mind. 1988",
+      "Historie": "Eröffnet wurde die Gaststätte von Johann Adolpf Pöppelmann (Sohn von Daniel Pöppelmann). 1900 - 1945 war es der Klubraum der Spirituosenfabrik Bramsch. Seit 1968 ist es unter dem Namen \"Café-Restaurant Friedrichstadt\" bekannt. Es bestand aus einem Gasthaus mit Gartenlokal, welche bewirtschaftet wurden von Familie Spahn. 1988 wurde es von dem ehemaligen Besitzern aufgelöst.",
+      "latitude": 51.0596331,
+      "longitude": 13.71957996064613
+    },
+    {
+      "Name": "Blockhaus",
+      "andere frühere Namen (Zeitraum)": "Haus des DSF im Blockhaus",
+      "Straße": "Neustädter Markt 19",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant; Spezialitätenrestaurant",
+      "Historie": "1976 bis 1982 wurde das Blockhaus wieder aufgebaut. 1988 war es bekannt für seine Spezialitäten der russischen Küche.",
+      "latitude": 51.0571298,
+      "longitude": 13.7408531
+    },
+    {
+      "Name": "Brauerei-Restaurant Mockritz",
+      "Straße": "Gostritzer Straße 30",
+      "PLZ": "01217",
+      "Art der Gastro": "Tanzgaststätte",
+      "Historie": "\"Schattiger Garten. Ein Haus mit Gesellschaftssaal, Vereinszimmer, Tanzdiele sowie zwei Bundeskegelbahnen. Im Restaurant fand um 1970/80 vorwiegend Jugendtanz statt.\"",
+      "latitude": 51.019165,
+      "longitude": 13.7572845
+    },
+    {
+      "Name": "Brauerhof",
+      "Straße": "Gottfried-Keller-Straße 29",
+      "PLZ": "01157",
+      "Historie": "Laut einer Anzeige: \"Ausschank gutgepflegter Biere, Billard-Vereinszimmer\"",
+      "latitude": 51.0591287,
+      "longitude": 13.677805549999999
+    },
+    {
+      "Name": "Briesnitzer Stübchen",
+      "Straße": "Alte Meißner Landstraße 45",
+      "PLZ": "01157",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Fr/Sa",
+      "latitude": 51.0650107,
+      "longitude": 13.674136622611941
+    },
+    {
+      "Name": "Broiler Bar",
+      "Straße": "Großenhainer Straße 180",
+      "PLZ": "01129",
+      "Betriebszeitraum": "1982 - mind. 1988",
+      "latitude": 51.0930861,
+      "longitude": 13.7209513
+    },
+    {
+      "Name": "Büfettgaststätte",
+      "Straße": "Schillerplatz 3",
+      "PLZ": "01309",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.05257970056869, 
+      "longitude": 13.80711496885838
+    },
+    {
+      "Name": "Buffet Altgruna",
+      "Straße": "Postelwitzer Straße 2",
+      "PLZ": "01277",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0346324,
+      "longitude": 13.7850094
+    },
+    {
+      "Name": "Bühlauer Waldgärten",
+      "Straße": "Nachtflügelweg 25",
+      "PLZ": "01324",
+      "Betriebszeitraum": "vor 1945 - heute",
+      "Ruhetage": "Mo/Di",
+      "Historie": "Der Name entstand nach 1945. Es war ein Kulturheim der Kleingärtner. Die Gaststätte ist aus dem Golfplatz-Kasino hervorgegangen.",
+      "latitude": 51.06634485,
+      "longitude": 13.840282043621643
+    },
+    {
+      "Name": "Bünau-Eck",
+      "andere frühere Namen (Zeitraum)": "Alt-Wien",
+      "Straße": "Bünaustraße 35",
+      "PLZ": "01159",
+      "latitude": 51.0389087,
+      "longitude": 13.6995392
+    },
+    {
+      "Name": "Bürgergarten",
+      "andere frühere Namen (Zeitraum)": "Gasthof Löbtau",
+      "Straße": "Lübecker Straße 16",
+      "PLZ": "01159",
+      "Betriebszeitraum": " seit ca. 1765",
+      "latitude": 51.0465612,
+      "longitude": 13.702037087852638
+    },
+    {
+      "Name": "Bürgerschänke",
+      "andere frühere Namen (Zeitraum)": "Goldener Apfel, Zum goldenen Apfel",
+      "Straße": "Wolgaster Straße 7",
+      "PLZ": "01109",
+      "Historie": "1887 wurde es als zweites Hotel von Klotzsche mit Stallungen für Pferde gebaut. Weil nach 1918 der Kurbetrieb in Klotzsche nach ließ, wurden Mietwohnungen aus den Hotelzimmern. Der Weinkeller, genannt \"Bürgerschänke\" blieb jedoch erhalten.",
+      "latitude": 51.11546345,
+      "longitude": 13.787570400193498
+    },
+    {
+      "Name": "Buri-Buri",
+      "Straße": "Große Meißner Str. 15",
+      "PLZ": "01097",
+      "Art der Gastro": "Spezialitätenrestaurant",
+      "Historie": "Im Hotel Bellevue zu finden",
+      "latitude": 51.0584948,
+      "longitude": 13.7389612
+    },
+    {
+      "Name": "Busch's Gaststätte",
+      "Straße": "Großenhainer Straße 102",
+      "PLZ": "01127",
+      "latitude": 51.08360775,
+      "longitude": 13.729151629127273
+    },
+    {
+      "Name": "Café am Bach",
+      "Straße": "Braunsdorfer Straße 125",
+      "PLZ": "01159",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.04413005,
+      "longitude": 13.681226902235135
+    },
+    {
+      "Name": "Café am Fernsehturm",
+      "Spitznamen": "Turm-Café",
+      "Straße": "Oberwachwitzer Weg 37",
+      "PLZ": "01326",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Café",
+      "Betriebszeitraum": "1969 - mind. 1988",
+      "Plätze": 125,
+      "Historie": "Das Gebäude wurde von 1964 bis 1969 errichtet. Es besaß 125 Plätze auf zwei Etagen verteilt.",
+      "latitude": 51.0404602,
+      "longitude": 13.8395514
+    },
+    {
+      "Name": "Café am Körnerplatz",
+      "Straße": "Körnerplatz 11",
+      "PLZ": "01326",
+      "latitude": 51.0544496,
+      "longitude": 13.814550050446774
+    },
+    {
+      "Name": "Café Am Palaisteich",
+      "Straße": "Hauptallee 8",
+      "PLZ": "01219",
+      "Rechtsform": "HO-Café",
+      "Betriebszeitraum": "1974 - mind. 1988",
+      "latitude": 51.037849949999995,
+      "longitude": 13.76285317021859
+    },
+    {
+      "Name": "Café Baltimore",
+      "andere frühere Namen (Zeitraum)": "(Zur) Hopfenblüte, Pieschener Bärenschänke",
+      "Straße": "Oschatzer Straße 26",
+      "PLZ": "01127",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "ca. 1885 - mind. 1988",
+      "Historie": "Ab 1976 unter dem Namen \"Café Baltimore\" bekannt.",
+      "latitude": 51.07651545,
+      "longitude": 13.724912508231952
+    },
+    {
+      "Name": "Café Borsberg",
+      "Straße": "Borsbergstraße 31",
+      "PLZ": "01309",
+      "Rechtsform": "HO-Café",
+      "latitude": 51.0449056,
+      "longitude": 13.7794123
+    },
+    {
+      "Name": "Café Christian Tammer",
+      "Spitznamen": "Bildercafé",
+      "Straße": "Bautzner Straße 27b",
+      "PLZ": "01099",
+      "Art der Gastro": "Café, Milchbar",
+      "Betriebszeitraum": "mind. 1971 - mind. 1988",
+      "Historie": "1971 fanden dort wechselnde Ausstellungen mit Malerei und Grafik statt, weshalb es auch \"Bildercafé\" genannt wurde.",
+      "latitude": 51.06318065,
+      "longitude": 13.752112220975379
+    },
+    {
+      "Name": "Café Elbblick",
+      "Straße": "Elbeweg 4",
+      "PLZ": "01326",
+      "Betriebszeitraum": "1931 - mind. 1988",
+      "latitude": 50.9931261,
+      "longitude": 13.8807123
+    },
+    {
+      "Name": "Café Elbinsel (Zur Elbinsel)",
+      "andere frühere Namen (Zeitraum)": "Zur Elbinsel",
+      "Straße": "Trieskestraße 23",
+      "PLZ": "01259",
+      "Historie": "Treffpunkt Wassersportler; Naturschutzgebiet; P. Beil (Wirt zur DDR-Zeit)",
+      "latitude": 50.9957696,
+      "longitude": 13.8709649
+    },
+    {
+      "Name": "Café Goldener Stiefel",
+      "Straße": "Am Goldenen Stiefel 8",
+      "PLZ": "01239",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0089868,
+      "longitude": 13.778340286306703
+    },
+    {
+      "Name": "Café Gradel",
+      "Straße": "Wehlener Straße 28",
+      "PLZ": "01279",
+      "Betriebszeitraum": "1. März 1919 - heute",
+      "Historie": "Nach dem Krieg war das Gebäude auf der Striesener Straße 27 zerstört (nach Angaben der Webseite). Danach begann ein Neuanfang in DD-Tolkewitz.",
+      "latitude": 51.0361038,
+      "longitude": 13.8145556
+    },
+    {
+      "Name": "Café Grießbach",
+      "Straße": "Neunimptscher Straße 13",
+      "PLZ": "01169",
+      "Art der Gastro": "Café, Milchbar",
+      "Historie": "Galt als \"Ausflugsgaststätte\", an welcher es Freitags und Samstagabend Tanz gab.",
+      "latitude": 51.03642,
+      "longitude": 13.673775389753779
+    },
+    {
+      "Name": "Café Hausberg",
+      "Straße": "Hoher Steig 4",
+      "PLZ": "01326",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0140069,
+      "longitude": 13.8727442
+    },
+    {
+      "Name": "Café Heiderand",
+      "andere frühere Namen (Zeitraum)": "Cafe Schnöder",
+      "Straße": "Ullersdorfer Platz 4",
+      "PLZ": "01324",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1974 - mind. 1988",
+      "Ruhetage": "Mo",
+      "Historie": "vorher: Cafe Schnöder (Bäckerei und Café ca. von 1905); 1932 wurd ein Saal angebaut. 1936 wurde Herr Schütze der Pächter,  er führte nach 1945 Tanzabende ein",
+      "latitude": 51.0623079,
+      "longitude": 13.855701872826085
+    },
+    {
+      "Name": "Café Kästner",
+      "Straße": "Alaunstraße 1",
+      "PLZ": "01099",
+      "Betriebszeitraum": "7.10.1989 eröffnet",
+      "Historie": "Die Häuserzeile des Cafés wurde 1986 erbaut.",
+      "latitude": 51.0637362,
+      "longitude": 13.7482516
+    },
+    {
+      "Name": "Café König",
+      "Straße": "Rudolf-Leonhard-Straße 13",
+      "PLZ": "01097",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0728556,
+      "longitude": 13.7478915
+    },
+    {
+      "Name": "Café Mokkaperle",
+      "Straße": "Bautzner Straße 55",
+      "PLZ": "01099",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1958 - 1982",
+      "latitude": 51.0632846,
+      "longitude": 13.7565962
+    },
+    {
+      "Name": "Café Prag",
+      "Straße": "Altmarkt 16/17",
+      "PLZ": "01067",
+      "Art der Gastro": "Großgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1. Mai 1958 - mind. 1988",
+      "Historie": "Das Café war zunächst ein Tanzkabarett. Hier traten O. F. Weidling, Heinz Quermann, Alexander Bauer, das Orchestr Charly Fritzsche und andere auf. Die HO-Gaststätte bestand aus drei gastronomischen Einrichtungen: Tanzcafé, Schnellimbiß, Mokkastube (letztere war bis 1988 mind. vorhanden).",
+      "latitude": 51.0501759,
+      "longitude": 13.7371767
+    },
+    {
+      "Name": "Café Quick",
+      "Straße": "Bautzner Straße 9",
+      "PLZ": "01099",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0635464,
+      "longitude": 13.7490344
+    },
+    {
+      "Name": "Café Restaurant Antwerpen",
+      "Straße": "Königsbrücker Straße 32",
+      "PLZ": "01099",
+      "Betriebszeitraum": "1976 - mind. 1988",
+      "latitude": 51.0677901,
+      "longitude": 13.7476967
+    },
+    {
+      "Name": "Café Schwarz-Weiß",
+      "Straße": "Reisewitzer Straße 16",
+      "PLZ": "01159",
+      "latitude": 51.0433743,
+      "longitude": 13.7007708
+    },
+    {
+      "Name": "Café Spree (Tagescafé)",
+      "Straße": "Albert-Wolf-Platz 2",
+      "PLZ": "01239",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "Konsumcafé",
+      "latitude": 51.0076135,
+      "longitude": 13.803705598063104
+    },
+    {
+      "Name": "Café Süd",
+      "Straße": "Eisenstuckstraße 17",
+      "PLZ": "01069",
+      "latitude": 51.0356019,
+      "longitude": 13.722437
+    },
+    {
+      "Name": "Café Südhöhe",
+      "Straße": "Südhöhe 29",
+      "PLZ": "01217",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "ca. 1930, ab 1958 - mind. 1988 HO",
+      "Historie": "Samstags und Sonntags wurde dort ein Mittagstisch angeboten.",
+      "latitude": 51.0191526,
+      "longitude": 13.7421607
+    },
+    {
+      "Name": "Café Tourist",
+      "Straße": "Antonstraße 33",
+      "PLZ": "01097",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0641519,
+      "longitude": 13.7392132
+    },
+    {
+      "Name": "Café Treff",
+      "andere frühere Namen (Zeitraum)": "Wurzener Hof",
+      "Straße": "Leisniger Straße 45",
+      "PLZ": "01127",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.0817112,
+      "longitude": 13.7225513
+    },
+    {
+      "Name": "Café Waldesruh",
+      "Straße": "Waldhofstraße 68d",
+      "PLZ": "01109",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "seit 1924",
+      "Ruhetage": "Mo/Di",
+      "Plätze": 250,
+      "Historie": "1924 als Ausflugslokal von Max Schmidgen erbaut. 1930 besaß es eine eigene Fleischerei. Max Schmidgen nannte seine Gaststätte \"Waldmax\". Werbung von 1958: \"Café Waldesruh, schönste Waldgaststätte mit Räumen für Betriebsfeiern bis 250 Personen. Großer Kinderspielplatz\"  Heute heißt es wieder Waldmax.",
+      "latitude": 51.11121317107637, 
+      "longitude": 13.71261929923012
+    },
+    {
+      "Name": "Café Weinberg",
+      "Straße": "Kaitzer Weinberg 12",
+      "PLZ": "01217",
+      "Art der Gastro": "Café, Milchbar",
+      "Historie": "Ab 1971 besaß es eine eigene Patisserie.",
+      "latitude": 51.0160942,
+      "longitude": 13.732261148478237
+    },
+    {
+      "Name": "Café Weißer Hirsch",
+      "andere frühere Namen (Zeitraum)": "Café Süßmilch, Zur Weinlaube, Café Wachendorf",
+      "Straße": "Plattleite 66",
+      "PLZ": "01324",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "1907 entstand aus der ehemaligen Konditorei John das \"Café Wachendorf\" durch die Übernahme von Alfred Wachendorf. Es galt als ein beliebtes Café der Lahmannsche Sanatoriumsgäste. Im zweiten Weltkrieg gingen die Umsätze stark zurück. 1953 sollte der Fußweg verbreitert werden, was zum Abriss der Veranden führte.",
+      "latitude": 51.0634397,
+      "longitude": 13.8208842
+    },
+    {
+      "Name": "Café Wilder Mann",
+      "andere frühere Namen (Zeitraum)": "Café Alwina, Café Röder",
+      "Straße": "Großenhainer Straße 219",
+      "PLZ": "01129",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.095486699999995,
+      "longitude": 13.719059152065945
+    },
+    {
+      "Name": "Café Winterberg",
+      "Straße": "Winterbergstraße 33",
+      "PLZ": "01277",
+      "Betriebszeitraum": "1940 - 1988",
+      "Historie": "Um 1940 gab es eine Liegewiese mit Liegestühlen, einem großen Parkplatz und einen \"herrl. Garten\".",
+      "latitude": 51.0303838,
+      "longitude": 13.7854382
+    },
+    {
+      "Name": "Café Zschertnitz (Tagescafé)",
+      "Straße": "Michelangelostraße",
+      "PLZ": "01217",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0233158,
+      "longitude": 13.7445389
+    },
+    {
+      "Name": "Café/ Kaffee Hellerau",
+      "Straße": "Markt 15",
+      "PLZ": "01109",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1974 - heute",
+      "latitude": 51.1089329,
+      "longitude": 13.7616734
+    },
+    {
+      "Name": "Café-Restaurant Körnergarten",
+      "Straße": "Friedrich-Wieck-Straße 26",
+      "PLZ": "01326",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "27. Mai 1877 - heute",
+      "Ruhetage": "Mo/Di",
+      "Plätze": "40+",
+      "Historie": "Ursprünglich war es das Gasthaus zur Fähre (Dampffähre). Seit 1897 wird es Körnergarten genannt, durch den Besitz durch Familie Körner (Oswald Körner). Die Elbehochwasser 1942 und 1988 beschädigten es. Seit 1997 ist der Körnergarten im Besitz der Familie Buchbach.",
+      "latitude": 51.053173099999995,
+      "longitude": 13.81217755802591
+    },
+    {
+      "Name": "Carolaschlößchen",
+      "andere frühere Namen (Zeitraum)": "Café Freitag",
+      "Straße": " Querallee 7 Großer Garten",
+      "PLZ": "01219",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1895 - heute",
+      "Ruhetage": 0,
+      "Historie": "Das Carolaschlösschen wurde 1895 am Rand des Sees eröffnet. Der ursprüngliche Bau war zwölftürmig und im \"Zuckerbäckerstil\" errichtet worden. 1945 wurde er zerstört und im Folgenden wieder vollständig aufgebaut. Es war die erste Spielstätte des Dresdner Kabaretts, welches später ins Café Prag wechselte. 1999 wurde es vollständig saniert.",
+      "latitude": 51.033551,
+      "longitude": 13.7636543
+    },
+    {
+      "Name": "Centrum Warenhaus Kundenestaurant",
+      "Straße": "Prager Straße 17",
+      "PLZ": "01069",
+      "Art der Gastro": "Speiserestaurant, Selbstbedienungsrestaurant",
+      "Ruhetage": "So",
+      "latitude": 51.0464772,
+      "longitude": 13.7365413
+    },
+    {
+      "Name": "Cocktailbar Gin-Gin",
+      "Straße": "Hauptstraße 19",
+      "PLZ": "01097",
+      "Art der Gastro": "Café, Milchbar",
+      "Betriebszeitraum": "1979 - mind. 1994",
+      "Plätze": 80,
+      "latitude": 51.060466019544016, 
+      "longitude": 13.743125926529874
+    },
+    {
+      "Name": "Coschützer Höhe",
+      "Straße": "Karlsruher Straße 1",
+      "PLZ": "01189",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "\"Gepflegte Speisen und Getränke, Vereinszimmer, Verbandskegelbahn. Schattiger Lindengarten\"",
+      "latitude": 51.0189525,
+      "longitude": 13.7062318
+    },
+    {
+      "Name": "Coventry",
+      "andere frühere Namen (Zeitraum)": "Coventry Cottage and Gardens (als Hotel)",
+      "Straße": "Reicker Straße 118",
+      "PLZ": "01237",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": 0,
+      "Plätze": "100 (1994)",
+      "Historie": "1994 ist das Restaurant um die Ecke des Hauses gezogen, auf die Hülßestraße 1.",
+      "latitude": 51.0131118,
+      "longitude": 13.7915299
+    },
+    {
+      "Name": "Deubener Hof",
+      "Straße": "Deubener Straße 5",
+      "PLZ": "01159",
+      "latitude": 51.04230515,
+      "longitude": 13.693124151862815
+    },
+    {
+      "Name": "Deutsche Eiche",
+      "Straße": "Langebrücker Straße 2",
+      "PLZ": "01109",
+      "latitude": 51.12201305294465, 
+      "longitude": 13.789699668457391
+    },
+    {
+      "Name": "Deutsches Haus",
+      "andere frühere Namen (Zeitraum)": "Zum Deutschen Haus",
+      "Straße": "Dresdner Straße 38",
+      "PLZ": "01326",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.01765616007322,
+      "longitude": 13.863765307607794
+    },
+    {
+      "Name": "Deutsches Hygiene Museum Gaststätte",
+      "Straße": "Lingnerplatz 1",
+      "PLZ": "01069",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "seit 1930",
+      "latitude": 51.0443875,
+      "longitude": 13.746802534414268
+    },
+    {
+      "Name": "Döbelner Hof",
+      "Straße": "Döbelner Straße 41",
+      "PLZ": "01129",
+      "Historie": "Der Döbelner Hof war eine Gaststätte mit eigner Schlachterei.",
+      "latitude": 51.0923949,
+      "longitude": 13.7295769
+    },
+    {
+      "Name": "Dölzschener Höhe",
+      "Straße": "Luftbadstraße 21",
+      "PLZ": "01187",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Sommer: Mi/Do; Winter: Mo/Do",
+      "latitude": 51.0291384,
+      "longitude": 13.6954907
+    },
+    {
+      "Name": "Dorfclub Wilschdorf",
+      "Straße": "Warnemünder Straße 1",
+      "PLZ": "01109",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.12150585,
+      "longitude": 13.720404480426438
+    },
+    {
+      "Name": "Dorotheenhof",
+      "Straße": "Dorotheenstraße 2",
+      "PLZ": "01219",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "WE",
+      "latitude": 51.02193055,
+      "longitude": 13.768452376154762
+    },
+    {
+      "Name": "Drachenschänke",
+      "Straße": "Bautzner Straße 72",
+      "PLZ": "01099",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": 0,
+      "Historie": "Entstand aus der romantischen Elbschänke \"Drachenberg\" an deren Stelle vor 1734 ein Lusthaus mit Garten stand. Galt 1958 als niveauvolle Gaststätte mit gutem Speiseangebot.",
+      "latitude": 51.06328175,
+      "longitude": 13.764471679116223
+    },
+    {
+      "Name": "Dresdner Hof",
+      "Straße": "Beilstraße 30 ",
+      "PLZ": "01277",
+      "Historie": "Es ist nicht bekannt, ob es sich hier um ein reines Gasthaus oder eines mit Gaststätte handelte.",
+      "latitude": 51.0346935,
+      "longitude": 13.7823522
+    },
+    {
+      "Name": "Dresdner Kaffeestube",
+      "Straße": "Hauptstraße",
+      "PLZ": "01097",
+      "Betriebszeitraum": "seit 1979",
+      "Plätze": 18,
+      "latitude": 51.06013773631621, 
+      "longitude": 13.743186782351893
+    },
+    {
+      "Name": "Dynamo-Clubgaststätte",
+      "Straße": "Lennéstraße 1",
+      "PLZ": "01219",
+      "Rechtsform": "HO-Gaststätte",
+      "Plätze": 180,
+      "latitude": 51.0445459,
+      "longitude": 13.755933893750003
+    },
+    {
+      "Name": "Edelweiß",
+      "Straße": "Wilhelm-Franke-Straße 38",
+      "PLZ": "01219",
+      "Betriebszeitraum": "1982 geschlossen",
+      "Historie": "Galt als eine \"gepflegte Familiengaststätte\". 1958 war der Inhaber Max Lorenz, welcher früher die \"Große Wirtschaft, das Gewerbehaus und das Volkshaus Laubegast\" besaß. Am Wochende fand Unterhalungsmusik vor Ort statt. 1982 wurde der ehemalige Gasthof geschlossen.",
+      "latitude": 51.0155382,
+      "longitude": 13.7690172
+    },
+    {
+      "Name": "Eis-Café",
+      "Straße": "Bautzner Landstraße 161",
+      "PLZ": "01324",
+      "latitude": 51.06182495,
+      "longitude": 13.85528740464092
+    },
+    {
+      "Name": "Eiscafé Am Rathaus",
+      "Straße": "Lübecker Straße 108",
+      "PLZ": "01157",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0566859,
+      "longitude": 13.6877642
+    },
+    {
+      "Name": "Eiscafé Barbarine",
+      "Straße": "Prager Straße",
+      "PLZ": "01069",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.045293,
+      "longitude": 13.7366678
+    },
+    {
+      "Name": "Eiscafé Cossebaude",
+      "Straße": "Heinrich-Mann-Straße 10",
+      "PLZ": "01156",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.08608885,
+      "longitude": 13.633794634802987
+    },
+    {
+      "Name": "Eiscafé Iglu",
+      "Straße": "Papsdorfer Straße 19",
+      "PLZ": "01277",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.03429326812945, 
+      "longitude": 13.78414821185034
+    },
+    {
+      "Name": "Eiscafé Jähnig",
+      "Straße": "Geinitzstraße 16",
+      "PLZ": "01217",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0302885,
+      "longitude": 13.7452359
+    },
+    {
+      "Name": "Eiscafé Kristall",
+      "Straße": "Hauptstraße 2a",
+      "PLZ": "01097",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1979 - 1988",
+      "Historie": "Das Café hätte eigentlich auch \"Grüne Bude\" genannt werden können, da sich dort im 18. Jahrhundert bereits ein so bezeichnetes Café des Italieners Busetti befand. \"Um die beliebten Glasschalen für die Eisbecher zu bekommen, mussten die Serviererinnen zeitweise nach Weißwasser in die Produktion gehen.\"",
+      "Bilder": [
+        {
+        "url":"https://fotothek.slub-dresden.de/fotos/df/hauptkatalog/0197000/df_hauptkatalog_0197460.jpg",
+        "alt":"Der leere Gastraum des Cafes mt vielen Tischen und Stühlen.",
+        "bildunterschrift":"Würker, Martin: Dresden, Gastraum Eiscafe Kristall, 1981"
+        },
+        {
+        "url":"https://fotothek.slub-dresden.de/fotos/df/hauptkatalog/0197000/df_hauptkatalog_0197462.jpg",
+        "alt":"Der Tresen des Eiscafes mit einer Mitarbeiterin dahinter.",
+        "bildunterschrift":"Würker, Martin: Dresden, Tresen Eiscafe Kristall, 1981"
+        }
+      ],
+      "latitude": 51.058371213055665, 
+      "longitude": 13.741922882351874
+    },
+    {
+      "Name": "Eiscafé Leuben",
+      "Straße": "Berthold-Haupt-Straße 2",
+      "PLZ": "01257",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.009634,
+      "longitude": 13.8321967
+    },
+    {
+      "Name": "Eiscafé Leuner",
+      "Straße": "Dohnaer Straße 73",
+      "PLZ": "01219",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 50.9976303,
+      "longitude": 13.8009774
+    },
+    {
+      "Name": "Eiscafé Schloßstraße",
+      "Straße": "Schloßstraße 7",
+      "PLZ": "01067",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.05160109233105, 
+      "longitude": 13.737238013036283
+    },
+    {
+      "Name": "Eiscafé Simon",
+      "Straße": "Meißner Landstraße 175",
+      "PLZ": "01157",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0823739,
+      "longitude": 13.65247643553999
+    },
+    {
+      "Name": "Eiscafé Sylvia",
+      "Straße": "Pohlandstraße 18",
+      "PLZ": "01309",
+      "latitude": 51.0475357,
+      "longitude": 13.797583577130684
+    },
+    {
+      "Name": "Eiscafé Thiele",
+      "Straße": "Hamburger Straße 74",
+      "PLZ": "01157",
+      "Art der Gastro": "Café, Milchbar, Cocktailbar mit Tanz",
+      "latitude": 51.06235705,
+      "longitude": 13.684530781631908
+    },
+    {
+      "Name": "Eiscafé Thieme",
+      "Straße": "Lenbachstraße 11",
+      "PLZ": "01219",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0243125,
+      "longitude": 13.7599161
+    },
+    {
+      "Name": "Eis-Café Welsch",
+      "Straße": "Rudolf-Leonhard-Straße 13",
+      "PLZ": "01097",
+      "latitude": 51.0728556,
+      "longitude": 13.7478915
+    },
+    {
+      "Name": "Eisdiele Eisspatz",
+      "Straße": "Zwinglistraße",
+      "PLZ": "01309",
+      "latitude": 51.0343044,
+      "longitude": 13.7837451
+    },
+    {
+      "Name": "Eisdiele Schwarz",
+      "Straße": "Kesselsdorfer Straße 16",
+      "PLZ": "01159",
+      "latitude": 51.0439538,
+      "longitude": 13.701195
+    },
+    {
+      "Name": "Eis-Espresso",
+      "Straße": "Königsbrückerstraße 53",
+      "PLZ": "01099",
+      "latitude": 51.0709821,
+      "longitude": 13.749884266055044
+    },
+    {
+      "Name": "Eis-Espresso",
+      "Straße": "Königsbrückerstraße 60",
+      "PLZ": "01099",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.070181,
+      "longitude": 13.749851
+    },
+    {
+      "Name": "Elbfrieden",
+      "andere frühere Namen (Zeitraum)": "Fockes Strand-Restaurant, Eis-Krause, Café Eis-Krause",
+      "Straße": "Käthe-Kollwitz-Ufer 23B",
+      "PLZ": "01307",
+      "Historie": "Heute ist es der sogenannte Fährgarten Johannstadt.",
+      "latitude": 51.06154205,
+      "longitude": 13.767075704776818
+    },
+    {
+      "Name": "Elbhütte",
+      "Straße": "Leipziger Straße 99",
+      "PLZ": "01127",
+      "latitude": 51.07714045,
+      "longitude": 13.717299845958426
+    },
+    {
+      "Name": "Elbidyll",
+      "Spitznamen": "Holzopfer",
+      "Straße": "Berthold-Haupt-Straße 71b",
+      "PLZ": "01259",
+      "Plätze": "25 + 80 außen im Sommer",
+      "latitude": 51.0095899,
+      "longitude": 13.8615464
+    },
+    {
+      "Name": "Elbtal",
+      "Straße": "Laubegaster Ufer 29",
+      "PLZ": "01279",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Di/Mi",
+      "Historie": "Von 1984 bis 1986 wurde die Gaststätte erneuert. \"In den Sommermonaten ein angenehmer Aufenthalt auf der Veranda.\"",
+      "latitude": 51.0227201,
+      "longitude": 13.8412257
+    },
+    {
+      "Name": "Elbterrasse Laubegast",
+      "Straße": "Kleinzschachwitzer Ufer 7",
+      "PLZ": "01259",
+      "Rechtsform": "HO-Gaststätte",
+      "Plätze": "60 + 185 im Garten",
+      "Historie": "Im Sommer mussten sich die Gäste am Kiosk selbstversorgen.",
+      "latitude": 51.0177062,
+      "longitude": 13.845774
+    },
+    {
+      "Name": "Elbterrasse Wachwitz",
+      "Straße": "Altwachwitz 14",
+      "PLZ": "01326",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "Konsumgaststätte",
+      "Ruhetage": "Mai -Sept. = 0; sonst Di/Mi",
+      "Historie": "Zwischen 1933 und 1944 war sie als Gaststätte mit Fremdenzimmern bekannt. 1958 konnte Johannes Sedlacek seinen Gästen Fremdenzimmer und einen kleinen Gesellschaftssaal bieten. Sie galt als eine gepflegte Gaststätte an der Elbe mit Außenplätzen. Die über 200 Jahre alte Gaststätte steht unter Denkmalschutz und wurde 1987 erneuert.",
+      "latitude": 51.0368769,
+      "longitude": 13.8322787
+    },
+    {
+      "Name": "Erholung",
+      "Straße": "Rißweg 39",
+      "PLZ": "01324",
+      "Betriebszeitraum": "1900 - mind. 1988",
+      "Historie": "1900 fand die Eröffnung statt. Die Gaststätte \"Erholung\" besuchten berühmte Gäste, wie Adele Sandrock, Marika Röck, Heinz Rühmann, Theo Lingen und Rainer Maria Rilke. Im zweiten Weltkrieg blieb es unzerstört und bestand noch bis zur Schließung in den 1980ern als HO-Gaststätte. 1988 wurde das Restaurant durch Familie Pattis neu eröffnet. ",
+      "latitude": 51.0615184,
+      "longitude": 13.821801311724407
+    },
+    {
+      "Name": "Erlenklause",
+      "Straße": "Erlenstraße 22",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.0738058,
+      "longitude": 13.7455089
+    },
+    {
+      "Name": "Espresso",
+      "Straße": "Kesselsdorfer Straße 43",
+      "PLZ": "01159",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0424486,
+      "longitude": 13.6905626
+    },
+    {
+      "Name": "Espresso Prohlis",
+      "Straße": "Finsterwalder Straße 33/35",
+      "PLZ": "01239",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "Konsumgaststätte",
+      "latitude": 51.0047067,
+      "longitude": 13.8022184
+    },
+    {
+      "Name": "Express Mickten",
+      "andere frühere Namen (Zeitraum)": "Zur guten Quelle",
+      "Straße": "Leipziger Straße 156",
+      "PLZ": "01127",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0797637,
+      "longitude": 13.7145855
+    },
+    {
+      "Name": "FDGB-Hotel und Restaurant Bastei",
+      "Straße": "Prager Straße 5",
+      "PLZ": "01069",
+      "Art der Gastro": "Hotel-Gaststätte",
+      "Betriebszeitraum": "seit 30. Mai 1969",
+      "Historie": "Seit dem 30. Mai 1969 bestaht das Interhotel. Es verfügte über 306 Ein-und Zweibettzimmer für gesamt 639 Gäste.",
+      "latitude": 51.04325815,
+      "longitude": 13.734286982355977
+    },
+    {
+      "Name": "Felsenkellerbräustübl",
+      "Straße": "Lange Straße 37",
+      "PLZ": "01159",
+      "latitude": 51.0410744,
+      "longitude": 13.688519266075387
+    },
+    {
+      "Name": "Fischhaus",
+      "Straße": "Fischhausstraße 14",
+      "PLZ": "01099",
+      "Historie": "Weil die Reservefischbecken für die kurfürstliche Tafel keine günstigen Bedingungen mehr boten, zog anstelle des Teichwärters der Revierförster in das Gebäude ein. 1573 erlangte er das Privileg \"Bier zollfrei zu verzapfen\". Das Forsthaus wurde 1901 zur Waldgaststätte ausgebaut und durch den Pächter Arthur Krüger bewirtschaftet. Um 1950 wurde es in ein Hotel umfunktioniert und 1982 bestand es noch als Hotel und Gaststätte.",
+      "latitude": 51.0732435,
+      "longitude": 13.7946444
+    },
+    {
+      "Name": "Fischhaus Alberthafen",
+      "andere frühere Namen (Zeitraum)": "Kantine Alberthafen",
+      "Straße": "Magdeburger Straße 58",
+      "PLZ": "01067",
+      "Betriebszeitraum": "um 1960 - heute",
+      "Historie": "Es wurde um 1960 erbaut und besteht bis heute.",
+      "latitude": 51.06356855,
+      "longitude": 13.704605
+    },
+    {
+      "Name": "Flora",
+      "Straße": "Leubener Straße 25",
+      "PLZ": "01279",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0217437,
+      "longitude": 13.8339249
+    },
+    {
+      "Name": "Flughafenrestaurant",
+      "Straße": "Karl-Marx-Straße 100",
+      "PLZ": "01109",
+      "Art der Gastro": "MITROPA-Gaststätte",
+      "Betriebszeitraum": "seit 1935",
+      "Historie": "Zur Eröffnung des Flughafens am 11. Juni 1935 gab es einen Kaffeeraum, Trinkstuben, das Dachgartenlokal, eine Kegelbahn und einige Hotelplätze. Der Bier- und Kaffeegarten hatte vor dem Krieg für etwa 800 Gäste Platz. 1971 wurde das Flughafenrestaurant eine Mitropa-Gaststätte.",
+      "latitude": 51.1103883,
+      "longitude": 13.7749397
+    },
+    {
+      "Name": "Forsthaus Laubegast",
+      "andere frühere Namen (Zeitraum)": "Zum Forsthaus",
+      "Straße": "Leubener Straße 1",
+      "PLZ": "01279",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "WE",
+      "Historie": "Das Gebäude war zuvor die Ortsschule. Diese Schule wurde 1835 durch die Stiftung einer Geldsumme des Obergefreiten Friedrich Samuel Schober eingerichtet. Zuvor war sie ein ehemaliges Hegereiterhaus (Forsthaus). Nach dem Bau der neuen Laubegaster Schule wurde das Gebäude zur Gaststätte \"Forsthaus Laubegast\".",
+      "latitude": 51.024569850000006,
+      "longitude": 13.837266446462351
+    },
+    {
+      "Name": "Freundschaft",
+      "Straße": "Zamenhofstraße 59",
+      "PLZ": "01257",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": 0,
+      "Historie": "Seit 1982 war es eine HO-Gaststätte.",
+      "latitude": 51.010445700000005,
+      "longitude": 13.816083799999992
+    },
+    {
+      "Name": "Friedenswacht",
+      "Straße": "Karlsruher Straße 83",
+      "PLZ": "01189",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0108946,
+      "longitude": 13.693499191802342
+    },
+    {
+      "Name": "Fröbeleck",
+      "andere frühere Namen (Zeitraum)": "Schmutzlers Gaststätte (bis 1976), Marcolinischlößchen (1911 - 1953)",
+      "Straße": "Semmelweisstraße 2",
+      "PLZ": "01159",
+      "Betriebszeitraum": "1911 - mind. 1988",
+      "Historie": "Jeden Freitag fand hier das Schlachtfest statt. Das Marcolinischlößchen bestand von 1911 bis 1953 und bis 1976 wurde es \"Schmutzlers Gaststätte\" genannt.",
+      "latitude": 51.05122865,
+      "longitude": 13.706846901193234
+    },
+    {
+      "Name": "Garten Elbhotel",
+      "Straße": "Friedrich-Wieck-Straße 18",
+      "PLZ": "01326",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0535857,
+      "longitude": 13.812218362521136
+    },
+    {
+      "Name": "Gartenfreunde",
+      "Straße": "Gottfried-Keller-Straße",
+      "PLZ": "01157",
+      "latitude": 51.0576513,
+      "longitude": 13.6780497
+    },
+    {
+      "Name": "Gartenkantine Kleeblatt",
+      "Straße": "Röderauer Str. 44",
+      "PLZ": "01127",
+      "latitude": 51.077612900000005,
+      "longitude": 13.73601205
+    },
+    {
+      "Name": "Gartensparte Am Teich",
+      "Straße": "Perronstraße 67",
+      "PLZ": "01237",
+      "latitude": 51.0127596,
+      "longitude": 13.7854705
+    },
+    {
+      "Name": "Gartensparte Hubertusheim",
+      "Straße": "Hubertusstraße 58/60",
+      "PLZ": "01129",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0934717,
+      "longitude": 13.7258535
+    },
+    {
+      "Name": "Gartensparte Laubenheim",
+      "Straße": "Eibenstocker Straße 22",
+      "PLZ": "01277",
+      "latitude": 51.0386466,
+      "longitude": 13.79257
+    },
+    {
+      "Name": "Gasthaus \"Zur Eule\"",
+      "Straße": "Grundstraße 100",
+      "PLZ": "01324",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "WE",
+      "latitude": 51.0592704,
+      "longitude": 13.8336826
+    },
+    {
+      "Name": "Gasthof Meußlitz",
+      "Straße": "Meußlitzer Straße 150",
+      "PLZ": "01259",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mi/Do",
+      "Historie": "Es gab einen Saal und ein Vereinszimmer, zudem fand jeden Sonntag Tanz statt.",
+      "latitude": 50.9985265,
+      "longitude": 13.8531668
+    },
+    {
+      "Name": "Gasthof Neunimptsch",
+      "Straße": "Neunimptscher Straße 13",
+      "PLZ": "01169",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.03642,
+      "longitude": 13.673775389753779
+    },
+    {
+      "Name": "Gasthof Wölfnitz",
+      "andere frühere Namen (Zeitraum)": "Westend Wölfnitz",
+      "Straße": "Kesselsdorfer Straße 114",
+      "PLZ": "01159",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "seit 1816 - mind. 1982",
+      "Historie": "Das Gebäude wurde mit einer Bäckerei 1823 neuerrichtet, aber bereits 1816 wurde der Gasthof erwähnt. Seit 1879 ist es der \"Gasthof Wölfnitz\" durch den Gastwirt August Köhler. Er besaß 2 Säle, einen großen mit 800 und einen kleinen Saal mit 80 Plätzen. Nach 1945 wurde ein Teil des Gasthauses als Kino genutzt. 1982 wurde es noch als HO-Gaststätte genannt.",
+      "latitude": 51.04273365,
+      "longitude": 13.682101591519174
+    },
+    {
+      "Name": "Gasthoft Coschütz",
+      "Straße": "Kleinnaundorfer Straße 1",
+      "PLZ": "01189",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1841 - heute",
+      "Ruhetage": "Di/Mi",
+      "Plätze": 60,
+      "Historie": "1810 wurde das Gebäude als Schmiede erbaut. Seit 1841 befand sich darin der Reihenschank. Der Tanz- und Ballsaal wurde 1879 errichtet und im Jahr darauf fanden die ersten Tanzveranstaltungen statt. Im zweiten Weltkrieg wurden französische Offiziere im Gasthof als Gefangene untergebracht. In den 1980er Jahre war Gerd Buckan der Inhaber und Küchenchef.",
+      "latitude": 51.0175846,
+      "longitude": 13.6960036
+    },
+    {
+      "Name": "Gaststätte am Georg Arnhold Bad",
+      "Straße": "Hauptallee 2",
+      "PLZ": "01219",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.042643999999996,
+      "longitude": 13.749275410036935
+    },
+    {
+      "Name": "Germania-Brauerrei",
+      "andere frühere Namen (Zeitraum)": "Moritzburger Hof, Gaststätte Germania",
+      "Straße": "Moritzburger Straße 59-63",
+      "PLZ": "01127",
+      "Historie": "1896 wurde hier an Schulkinder warme Suppe vom Verein gegen Armut und Bettlerei verteilt.",
+      "latitude": 51.0754398,
+      "longitude": 13.7284516
+    },
+    {
+      "Name": "Goldener Löwe",
+      "andere frühere Namen (Zeitraum)": "Zum goldenen Löwen, Hotel Goldener Löwe",
+      "Straße": "Schandauer Straße 87",
+      "PLZ": "01277",
+      "Historie": "War ein Hotel mit Gaststätte.",
+      "latitude": 51.0381989,
+      "longitude": 13.8086815
+    },
+    {
+      "Name": "Goldener Stiefel",
+      "Straße": "Am Goldenen Stiefel 8",
+      "PLZ": "01239",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1877 - mind. 1988",
+      "Ruhetage": "Mo/Di",
+      "Historie": "Die Gaststätte ist auf den Stiefelmacher Kotte zurückzuführen. Neben seiner Schuhmacherei besaß er einen Bierausschank. Sein Schwiegersohn ließ in der Nähe der Werkstatt eine richtige Gaststätte bauen und nannte sie \"Goldener Stiefel\". Es war eine Ausflugsgaststätte in der es manchmal auch Tanzabende gab. Seit 1934 gehört sie der Familie Klette. \"Es wird kein Mittagstisch gereicht, aber ist fü Familienfeiern geeignet.\"",
+      "latitude": 51.0089868,
+      "longitude": 13.778340286306703
+    },
+    {
+      "Name": "Goldenes Hufeisen",
+      "Spitznamen": "Happeldiele",
+      "Straße": "Alaunstraße 83",
+      "PLZ": "01099",
+      "Historie": "In der Gaststätte wurden Pferdefleischspeisen angeboten, deshalb bekam sie die Bezeichnung \"Happeldiele\" im Volksmund.",
+      "latitude": 51.06936405,
+      "longitude": 13.753920841119365
+    },
+    {
+      "Name": "Goldenes Lamm",
+      "andere frühere Namen (Zeitraum)": "Gasthaus zum Lamm, Zum Goldenen Lamm",
+      "Straße": "Leipziger Straße 220",
+      "PLZ": "01139",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "März 1882 - mind. 1988",
+      "Historie": "War ein \"Ball- und Vergnügnungsetablissement\". Seit März 1882 bestand das \"Gasthof zum goldenen Lamm\".",
+      "latitude": 51.0845808,
+      "longitude": 13.709122
+    },
+    {
+      "Name": "Goldmann's Restaurant",
+      "andere frühere Namen (Zeitraum)": "Mittelschänke",
+      "Straße": "Cottbuser Straße 31",
+      "PLZ": "01129",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "\"Gemütlicher Familien-Aufenthalt, schattiger Garten\"",
+      "latitude": 51.089674450000004,
+      "longitude": 13.713386350000002
+    },
+    {
+      "Name": "Gorbitzer Krug",
+      "Straße": "Leutewitzer Ring 33",
+      "PLZ": "01169",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": 0,
+      "latitude": 51.0451571,
+      "longitude": 13.6732905050327
+    },
+    {
+      "Name": "Griletta",
+      "Straße": "Bischofsweg 8",
+      "PLZ": "01097",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.07127372643309, 
+      "longitude": 13.751164455365862
+    },
+    {
+      "Name": "Gust'l Eck",
+      "Straße": "Jacobistraße 9",
+      "PLZ": "01309",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.048281599999996,
+      "longitude": 13.795783235017886
+    },
+    {
+      "Name": "Hasenschänke",
+      "Straße": "Bärensteiner Straße 13",
+      "PLZ": "01277",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.0379507,
+      "longitude": 13.8043543
+    },
+    {
+      "Name": "Hauptbahnhofswirtschaft",
+      "Straße": "Wiener Platz 4",
+      "PLZ": "01069",
+      "Art der Gastro": "MITROPA-Gaststätte",
+      "Historie": "Mitropa-Gaststätte mit Selbstbedienungsrestaurant befand sich in den 1980ern dort.",
+      "latitude": 51.04039265,
+      "longitude": 13.731467022830806
+    },
+    {
+      "Name": "Haus Altmarkt",
+      "Straße": "Wilsdruffer Straße 19 - 21",
+      "PLZ": "01067",
+      "Art der Gastro": "Großgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "Die Gaststätte besteht seit 1956 als Großgaststätte mit fünf gastronomischen Einheiten. Es galt als das Haus der vielen Möglichkeiten mit Speisegaststätte, Tagescafé mit Presseabteil, Weinrestaurant und Bar sowie Konzertcafé und Spielsälen.",
+      "latitude": 51.0499239,
+      "longitude": 13.7391995
+    },
+    {
+      "Name": "Hebeda's Gaststätte",
+      "Straße": "Rothenburger Straße 30",
+      "PLZ": "01099",
+      "Historie": "\"Treff aller Fußballfreunde\"",
+      "andere frühere Namen (Zeitraum)": "Markgrafenburg",
+      "latitude": 51.064991,
+      "longitude": 13.753287898529411
+    },
+    {
+      "Name": "Heidemühle",
+      "Spitznamen": "Zur schwarzen Gake, Heide-Gake",
+      "andere frühere Namen (Zeitraum)": "Gasthaus zur neuen Heidemühle, Gasthaus zur Heidemühle",
+      "Straße": "Radeberger Straße 100",
+      "PLZ": "01099",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1841 - ?",
+      "Ruhetage": "Mo/Di",
+      "Historie": "Entstanden ist die Heidemühle aus einer Mahl-Schneide- und Ölmühle mit Gasthaus, welche 1841 neu errichtet wurde. Samuel Hempel eröffnete 1843 das \"Gasthaus in der neuen Heidemühle\". 1880 brannte es ab und wurde im Folgejahr wieder errichtet als \"Gasthaus zur Heidemühle\". Von 1950 bis 1990 war es das Betriebsferienheim des VEB Braunkohlekombinat Senftenberg. 1971 galt es als Ausflugsgaststätte mit Selbstbedienung, bei welcher es nur einen Mittagstisch gab.",
+      "latitude": 51.094339,
+      "longitude": 13.8423035
+    },
+    {
+      "Name": "Henrichs Restaurant",
+      "Straße": "Pillnitzer Landstraße 154",
+      "PLZ": "01326",
+      "latitude": 51.0369221,
+      "longitude": 13.8330516
+    },
+    {
+      "Name": "Hertelklause",
+      "Straße": "Hertelstraße 29",
+      "PLZ": "01307",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "Seit 1958 als HO-Gaststätte geführt.",
+      "latitude": 51.0585568,
+      "longitude": 13.7719349
+    },
+    {
+      "Name": "Höhle's Bierstuben",
+      "andere frühere Namen (Zeitraum)": "Zum schwarzen Adler, Volkswohl",
+      "Straße": "Schäferstraße 4",
+      "PLZ": "01067",
+      "Betriebszeitraum": "1694 - 1905 | - mind. 1982",
+      "Historie": "\"Gastwirtschaft befand sich immer an gleicher Stelle, wird aber unter vier Hausnummern geführt Nr. 121, 64, 77 u. Nr. 4. Das Gebäude wurde bereits 1694 errichtet. Die Gastwirtschaft bestand bis 1905.\" Es erfolgte ein Abriss und Neubau. Im neuen Gebäude hatte das Volksheim des Vereins \"Volkswohl\" von 1920 bis 1944 dort sein Speisehaus. Seit 1982 wurde das Gasthaus als \"Höhle's Bierstuben\" geführt.",
+      "latitude": 51.0558092,
+      "longitude": 13.719019810517977
+    },
+    {
+      "Name": "Hommels Gaststätte",
+      "Straße": "Struppener Straße 66",
+      "PLZ": "01259",
+      "Historie": "\"Angenehmer Familienverkehr, herrliche Gesellschaftszimmer, Kaffee-Garten\".",
+      "latitude": 50.9921857,
+      "longitude": 13.8673504
+    },
+    {
+      "Name": "Hotel Artushof und Ostrava",
+      "andere frühere Namen (Zeitraum)": "Zum Fürstenplatz, Artushof, Fürstenhof",
+      "Straße": "Fetscherstraße 30",
+      "PLZ": "01307",
+      "Art der Gastro": "Speiserestaurant; Spezialitätenrestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1900 - mind. 1988",
+      "Historie": "Die Gaststätte wurde um 1900 als \"Zum Fürstenplatz\" erbaut. Sie gehörte ab 1911 Familie Radisch. Seit 1949 war sie volkseigen und unterstand der HO. In den 70er/80er Jahren war es eine tschechische Nationalitätengaststätte. 1988 zum \"Hotel Artushof\" gehörend.",
+      "latitude": 51.0469212,
+      "longitude": 13.77246605155446
+    },
+    {
+      "Name": "Hotel Gewandhaus",
+      "Straße": "Ringstraße 1",
+      "PLZ": "01067",
+      "Art der Gastro": "Hotel-Gaststätte",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.048667567721225, 
+      "longitude": 13.741805055364939
+    },
+    {
+      "Name": "Hotel Goldener Löwe",
+      "andere frühere Namen (Zeitraum)": "Zum goldenen Löwen, Gasthof Goldener Löwe",
+      "Straße": "Lohmener Straße 4",
+      "PLZ": "01326",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "vor 1608 - mind. 1982",
+      "Historie": "1608 wurde hier eine Dorfschänke verzeichnet. Sie bestand aber vermutlich schon früher. Um 1800 wurde sie in \"Zum goldenen Löwen\" umbenannt. 1824 wurde daraus ein Gasthof mit Übernachtung. Bekannte Gäste waren zum Beispiel: C. G. Carus, Carl Vogel von Vogelstein, Carl Maria Weber. \"1893 bietet der Bes. A. Güldener seinen Gästen vorzügliche Unterkunft und Verpflegung an. Es stehen Schweizführer, Reitpferde, Equipagen und Omnibusse zur Verfügung. Die gute Küche und flotte Bedienung sind bekannt.\"",
+      "latitude": 51.0083426,
+      "longitude": 13.8753205
+    },
+    {
+      "Name": "Hotel Rothenburger Hof",
+      "Straße": "Rothenburger Straße 17",
+      "PLZ": "01099",
+      "Art der Gastro": "Hotel-Gaststätte",
+      "Ruhetage": 0,
+      "latitude": 51.0643518,
+      "longitude": 13.7525132
+    },
+    {
+      "Name": "Hotel Stadt Rendsburg",
+      "Straße": "Kamenzer Straße 1",
+      "PLZ": "01099",
+      "Art der Gastro": "Hotel-Gaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1645 - mind. 1988",
+      "Historie": "\"Seit 1645 bewirtet der Korbflechter Paulus Wanderer und Reisende. Ende des 18. Jh. Nennst sich das Gasthaus in Herberge \"Bei dem letzten Willen\". J. K. G. Philipp nannte das Gasthaus 1865 \"Stadt Rendsburg\". 1883/1884 entstand ein Neubau. Von 1927 bis 1979 war Familie Kühne Besitzer, danach wurde es Volksegentum. Das Hotel besaß zu DDR-Zeiten 25 Zimmer mit 44 Betten. Berühmte Gäste waren: Bärbel Wachholz, Frank Schöbel und Chris Doerk, Herbert Roth, Eberhard Cohrs sowie die Vier Brummers.\" Seit 1982 befidet es sich auf der Kamenzer Straße 1.",
+      "latitude": 51.065753,
+      "longitude": 13.7567912
+    },
+    {
+      "Name": "Hubertusgarten",
+      "andere frühere Namen (Zeitraum)": "Kaisergarten, Barani Tanzkabarett",
+      "Straße": "Bautzener Landstraße 89",
+      "PLZ": "01099",
+      "Art der Gastro": "Speiserestaurant; Spezialitätenrestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "19. Mai 1877 - heute",
+      "Historie": "Der \"Kaisergarten\" wure am 19. Mai 1877 eröffnet. Seit 1935 hier er \"Hubertusgarten\". 1944 wurde es als Gasthaus, Kaffee und Speisewirtschaft geführt. 1945 war die Gaststätte als \"Barani Tanzkabarett\" bekannt. Seit 1958 ist es im Volkseigentum. Seit 1971 ist der \"Hubertusgarten\" das Speiserestaurant für Wildspezialitäten.",
+      "latitude": 51.06247991380767, 
+      "longitude": 13.838436293325884
+    },
+    {
+      "Name": "Hubertushof",
+      "Straße": "Großenhainer Straße 154",
+      "PLZ": "01129",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 51.0901176,
+      "longitude": 13.723394
+    },
+    {
+      "Name": "Imbiss",
+      "Straße": "Schloßstraße",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.05201201398835, 
+      "longitude": 13.737486368954062
+    },
+    {
+      "Name": "Interhotel Newa",
+      "Straße": "St. Petersburger Straße 34",
+      "PLZ": "01069",
+      "Art der Gastro": "Hotel-Gaststätte",
+      "latitude": 51.0422659,
+      "longitude": 13.7356805
+    },
+    {
+      "Name": "International",
+      "Straße": "Prager Straße 15",
+      "PLZ": "01069",
+      "Art der Gastro": "Großgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1972 - mind. 1988",
+      "Ruhetage": "Mo/Di",
+      "Historie": "1972 als Großgaststätte mit Nationalitätenrestaurant Wroclaw, Nachtbar Mazurka, Gockelbar und vier weiteren gastronomischen Einrichtungen eröffnet. Die Mazurka Bar wurde im Untergeschoss mit Mobilar der Hellerauer Werkstätten eingerichtet.",
+      "latitude": 51.0456978,
+      "longitude": 13.7361897
+    },
+    {
+      "Name": "Italienisches Dörfchen",
+      "andere frühere Namen (Zeitraum)": "ID, Helbigs Etablissement",
+      "Straße": "Theaterplatz 1",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "Am 11. Okt. 1856 wird die \"Kämpe'sche Speisewirtschaft\" durch einen Umbau dem \"Helbig'schen Etablissement\" einverleibt. 1869 besteht die Wirtschaft aus sieben Häuser. 1910 wird es abgerissen und 1913 durch das \"Italienische Dörfchen\" von Hans Erlwein auf dem Theaterplatz 1 ersetzt.",
+      "latitude": 51.0534657,
+      "longitude": 13.7346385
+    },
+    {
+      "Name": "Jupiterbar (Hotel Bellevue)",
+      "Straße": "Große Meissner Straße 15",
+      "PLZ": "01097",
+      "Art der Gastro": "Tanzbar",
+      "Ruhetage": 0,
+      "latitude": 51.0584948,
+      "longitude": 13.7389612
+    },
+    {
+      "Name": "Kelb's Gaststätte",
+      "Straße": "Lockwitzer Straße 26",
+      "PLZ": "01219",
+      "latitude": 51.02451015,
+      "longitude": 13.761846611702124
+    },
+    {
+      "Name": "Kleines Haus",
+      "Straße": "Glacisstraße 28",
+      "PLZ": "01099",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0615624,
+      "longitude": 13.751038842904844
+    },
+    {
+      "Name": "Kleingartensparte Elbtal I",
+      "Straße": "Lockwitzbachweg",
+      "PLZ": "01257",
+      "latitude": 51.0166106,
+      "longitude": 13.8441009
+    },
+    {
+      "Name": "Kleingartensparte Erholung III",
+      "Straße": "Gleinaer Straße 1",
+      "PLZ": "01139",
+      "Spitznamen": "Knacke",
+      "latitude": 51.0864699,
+      "longitude": 13.6876696
+    },
+    {
+      "Name": "Kleingartensparte Erholungsheim",
+      "Straße": "Weinböhlaer Straße 40",
+      "PLZ": "01127",
+      "latitude": 51.082733,
+      "longitude": 13.7344801
+    },
+    {
+      "Name": "Kleingartensparte Frühauf",
+      "Straße": "Drescherhäuser 3",
+      "PLZ": "01159",
+      "latitude": 51.04947491006304, 
+      "longitude": 13.70191721118707
+    },
+    {
+      "Name": "Kleingartensparte Höhenluft",
+      "Straße": "Grenzallee 20",
+      "PLZ": "01187",
+      "latitude": 51.03101835,
+      "longitude": 13.695073830000009
+    },
+    {
+      "Name": "Kleingartensparte Laubenheim",
+      "Straße": "Eibenstocker Straße 28",
+      "PLZ": "01277",
+      "latitude": 51.0383632,
+      "longitude": 13.793262
+    },
+    {
+      "Name": "Kleingartensparte Paradies",
+      "Straße": "Rietzstraße 14",
+      "PLZ": "01139",
+      "latitude": 51.0842389,
+      "longitude": 13.7151271
+    },
+    {
+      "Name": "Kleingartensparte Schöne Aussicht",
+      "Straße": "Räcknitzhöhe 10",
+      "PLZ": "01217",
+      "latitude": 51.0233055,
+      "longitude": 13.7334562
+    },
+    {
+      "Name": "Kleingartensparte Straßenbahnhof Naußlitz",
+      "Straße": "Koblenzer Straße",
+      "PLZ": "01159",
+      "latitude": 51.0422538,
+      "longitude": 13.683535
+    },
+    {
+      "Name": "Kleistschänke",
+      "Straße": "Hans-Sachs-Straße 14",
+      "PLZ": "01129",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "So/Mo",
+      "latitude": 51.0866741,
+      "longitude": 13.7270299
+    },
+    {
+      "Name": "Klub der Werktätigen",
+      "andere frühere Namen (Zeitraum)": "Jugendgaststätte Club der Werktätigen",
+      "Straße": "Sternplatz",
+      "PLZ": "01067",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "So/Mo",
+      "latitude": 51.0469738,
+      "longitude": 13.7248707
+    },
+    {
+      "Name": "Klub der Werktätigen \"Lyra\"",
+      "Straße": "Berliner Straße 44",
+      "PLZ": "01067",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "So/Mo",
+      "Historie": "Das Gebäude wurde 1945 eschädit und in den 50er Jahren vom VEB Rohkonserve und später vom VEB Exellent genutzt. 1970 bis 1973 begann der Bau einer Kellerbar mit einem Platzangebot für 100 Personen. Dieses Angebot war aufgeteilt in eine Tanzbar mit 65, einem seperaten Gesellschaftsraum mit 25 und einer Kegelbahn mit 10 Plätzen.",
+      "latitude": 51.05602815247564, 
+      "longitude": 13.71432288235174
+    },
+    {
+      "Name": "Klubhaus \"August Bebel\"",
+      "Straße": "Wasaplatz 1",
+      "PLZ": "01219",
+      "Art der Gastro": "Speiserestaurant",
+      "Historie": "1979 Gewölbebierkeller, Restaurant, Neustädter Grill & Kaffeestube; 1685 erbaut",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.0284483,
+      "longitude": 13.7600951
+    },
+    {
+      "Name": "Klubhaus \"Friedrich Wolf\"",
+      "andere frühere Namen (Zeitraum)": "Café Bleicher, Café Lippold",
+      "Straße": "Hauptstraße 55",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 51.061291984482686, 
+      "longitude": 13.744935717606916
+    },
+    {
+      "Name": "Klubhaus \"Rudi Arndt\"",
+      "andere frühere Namen (Zeitraum)": "Zum Feldschlösschen, Jugendklubhaus Rudi Arndt",
+      "Straße": "Fechnerstraße 2a",
+      "PLZ": "01139",
+      "Art der Gastro": "Speiserestaurant",
+      "Historie": "1897/1898 wurde es nach dem Entwurf von Carl Käfer für Friedrich Ernst Leipert eingerichtet. Bis etwa 1955 war es eine Tanzgaststätte. Seit 1971 wirbt mit einem Speiserestaurant, Tanz und Veranstaltungen.",
+      "latitude": 51.08526120060399, 
+      "longitude": 13.704782297695216
+    },
+    {
+      "Name": "Konzertklause",
+      "andere frühere Namen (Zeitraum)": "Neustädter Konzertklause, Sängerheim",
+      "Straße": "Alaunstraße 80",
+      "PLZ": "01099",
+      "Historie": "Es war ein Stammlokal der SPD und KPD.",
+      "latitude": 51.0687236,
+      "longitude": 13.753667
+    },
+    {
+      "Name": "Konzertplatz Weißer Hirsch",
+      "Straße": "Hans-Sachs-Straße 23",
+      "PLZ": "01129",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.08832256930932, 
+      "longitude": 13.727447826531003
+    },
+    {
+      "Name": "Kügelgenhaus",
+      "Straße": "Hauptstraße 13",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1979 - heute",
+      "Historie": "1979 mit einem Gewölbebierkeller, Restaurant, Neustädter Grill und Kaffeestube auf der Straße der Bereiung (heute Hauptstraße in der Neustadt) eröffnet. \"Für die Durchführung von Feiern im kleinen Kreis empfehlen wir unsere Gesellschaftszimmer.\"",
+      "latitude": 51.0594494,
+      "longitude": 13.7427985
+    },
+    {
+      "Name": "Kultuhaus der Eisenbahn",
+      "Straße": "Coselweg 3",
+      "PLZ": "01189",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.021771799999996,
+      "longitude": 13.699013896096776
+    },
+    {
+      "Name": "Kulturheim West",
+      "andere frühere Namen (Zeitraum)": "Kurhaus Bühlau",
+      "Straße": "Stollestraße 72",
+      "PLZ": "01159",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "So/Mo",
+      "latitude": 51.04446405,
+      "longitude": 13.684794850650404
+    },
+    {
+      "Name": "Kulturpalast",
+      "Straße": "Schloßstraße 2",
+      "PLZ": "01067",
+      "Art der Gastro": "Großgaststätte",
+      "Betriebszeitraum": "1969 - heute",
+      "Ruhetage": "Mo/Di",
+      "Historie": "Das Haus wurde 1969 eröffnet und auch \"Haus der sozialistischen Kultur\" genannt. Darin befinden sich neben einem Konzertsaal, dem Studiotheater, verschiedene Klub- und Gesellschaftsräumen, eine Gaststätte und ein Pausenimbissraum.",
+      "latitude": 51.05100706090802, 
+      "longitude": 13.738154711187125
+    },
+    {
+      "Name": "Kümmelschänke",
+      "Straße": "Kümmelschänkenweg 2",
+      "PLZ": "01157",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1742 - heute",
+      "latitude": 51.0550671,
+      "longitude": 13.6603531
+    },
+    {
+      "Name": "Kurhaus Bühlau/Kurhaussaal",
+      "andere frühere Namen (Zeitraum)": "Gasthof Bühlau",
+      "Straße": "Ullersdorfer Platz 1",
+      "PLZ": "01324",
+      "Art der Gastro": "Tanzgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "seit 1756",
+      "Historie": "1642 gab es an der Landstraße in Richtung Bautzen eine Gaststätte für Wanderer und Kutscher. Seit 1756 bestand der Gasthof, welcher von Christian Nake bewirtschaftet wurde. Als Wilhelm Schwarz den Gasthof übernahm bekam er den Namen \"Kurhaus Bühlau\". 1945 war er die erste Ausweichspielstätte der Staatsoper. Am 7. April 1946 fand dort die Vereinigung zwischen KPD und SPD zur SED statt. Danach sorgten Tanzveranstaltungen und Betriebsfeiern für einen guten Ruf.",
+      "latitude": 51.0615239,
+      "longitude": 13.8544661
+    },
+    {
+      "Name": "Kurhaus Klotzsche",
+      "Straße": "Königsbrücker Landstraße 73",
+      "PLZ": "01109",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mo/Di",
+      "Historie": "\"Sehr gutes Speisenangebot. Freitag und Sonnabend Tanz.\"",
+      "latitude": 51.1148644,
+      "longitude": 13.7847075
+    },
+    {
+      "Name": "Leubener Eck",
+      "Straße": "Pirnaer Landstraße 161",
+      "PLZ": "01257",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0101097,
+      "longitude": 13.830988
+    },
+    {
+      "Name": "Leubnitzer Höhe",
+      "Straße": "Leubnitzer Straße 32",
+      "PLZ": "01069",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": 1898,
+      "Ruhetage": "Di/Mi",
+      "Historie": "Es war eine Ausflugsgaststätte mit schattigem Garten und Kegelbahn, für Familienfeiern geeignet.",
+      "latitude": 51.036327,
+      "longitude": 13.7276392
+    },
+    {
+      "Name": "Lilienstein",
+      "andere frühere Namen (Zeitraum)": "Zum Kurfürst Moritz Richters Gaststätte, Kurfürst Moritz",
+      "Straße": "Eisenberger Straße 15",
+      "PLZ": "01127",
+      "Betriebszeitraum": "1921 - mind. 1991",
+      "latitude": 51.072078649999995,
+      "longitude": 13.730038189106333
+    },
+    {
+      "Name": "Linden-Eck",
+      "Straße": "Berthold-Haupt-Straße 114",
+      "PLZ": "01259",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0081889,
+      "longitude": 13.8533451
+    },
+    {
+      "Name": "Lindengarten Hellerau",
+      "Straße": "Hellerstraße 16a",
+      "PLZ": "01109",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": 0,
+      "latitude": 51.11624755,
+      "longitude": 13.735584549999999
+    },
+    {
+      "Name": "Lindengarten Neustadt",
+      "Spitznamen": "Liga",
+      "andere frühere Namen (Zeitraum)": "Brauereigaststätte Lindengarten, Zum Lindengarten",
+      "Straße": "Königsbrücker Straße 121/121a",
+      "PLZ": "01099",
+      "Historie": "\"1891 wurde die \"Brauereigaststätte Lindengarten\" mit Gästegarten eröffnet.\" 1935 erfolgtedie Umbenennung in \"Konzert- und Veranstaltungshaus Lindengarten\". Nach 1945 kam es zu mehreren Umbauten. ",
+      "latitude": 51.064361,
+      "longitude": 13.7468464
+    },
+    {
+      "Name": "Lindenschänke",
+      "Straße": "Altmickten 1",
+      "PLZ": "01139",
+      "Betriebszeitraum": "1867 - mind. 1988",
+      "latitude": 51.0738326,
+      "longitude": 13.7011084
+    },
+    {
+      "Name": "Löbtauer Faß",
+      "Straße": "Freiberger Straße 120",
+      "PLZ": "01159",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0488291,
+      "longitude": 13.7179636
+    },
+    {
+      "Name": "Lübecker Eck",
+      "Straße": "Lübecker Straße 77",
+      "PLZ": "01157",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mo",
+      "Plätze": 56,
+      "Historie": "irgendwann nach 1988 umgezogen auf Schaufußgartenstraße 6? Oder Neunummerierung",
+      "latitude": 51.05199015,
+      "longitude": 13.691581994521801
+    },
+    {
+      "Name": "Luisenhof",
+      "Straße": "Bergbahnstraße 8",
+      "PLZ": "01324",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1895 - ?",
+      "Historie": "1895 nach den Plänen von Richard Paul Reuter erbaut. Seit 1920 ist die Familie Voigt Eigentümer, die es 1928 bis 1930 aus- und umbauten. 1949 wurde sie an die HO verpachtet und ab 1957 an diese verkauft. 1956 ka Helga Voigt, die Tochter des Hauses, bei einem Brand hier ums Leben.",
+      "latitude": 51.0581888,
+      "longitude": 13.8184012
+    },
+    {
+      "Name": "Maygarten \"Linie 6\"",
+      "Spitznamen": "Linie 6",
+      "Straße": "Schaufußstraße 24",
+      "PLZ": "01277",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1977 - 2002",
+      "latitude": 51.0401192,
+      "longitude": 13.812366059793174
+    },
+    {
+      "Name": "Mazurka-Bar (Parkhotel)",
+      "Straße": "Bautzner Straße 7",
+      "PLZ": "01099",
+      "Art der Gastro": "Tanzbar",
+      "Historie": "Das Gebäude besteht seit 1683 und war zunächst das \"Jagdhaus-Schankgut-Blasewitz\". Um 1900 gab es eine Stehbierhalle, Fremdenzimmer und einen Autodroschkenhalteplatz. Zudem fand Mittwoch, Freitag und Sonntag dort Tanz statt. Der historische Gasthof hieß 1804 noch \"Schimmel\" und beherbergte 1837 Richard Wagner. In der DDR wurde das Gasthaus geschlossen. Der Saal im Oergeschoss vertrug die Tänze nicht mehr. Im Erdgeschoss entstand eine Goldbroiler-Gaststätte sowie eine Milchbar.",
+      "latitude": 51.063598400000004,
+      "longitude": 13.748903320932962
+    },
+    {
+      "Name": "Meißner Weinkeller",
+      "Straße": "Hauptstraße 1b",
+      "PLZ": "01097",
+      "Art der Gastro": "Weinrestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1979 - mind. 1988",
+      "latitude": 51.05874847832681, 
+      "longitude": 13.741200053516295
+    },
+    {
+      "Name": "Melange",
+      "Straße": "Rathener Straße 113",
+      "PLZ": "01259",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0010836,
+      "longitude": 13.8329835
+    },
+    {
+      "Name": "Milchbar (am Schillerplatz)",
+      "andere frühere Namen (Zeitraum)": "Gasthof Blasewitz, Schimmel",
+      "Straße": "Schillerplatz 11",
+      "PLZ": "01309",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.05228643067872, 
+      "longitude": 13.807533987948945
+    },
+    {
+      "Name": "Milchbar Mickten",
+      "andere frühere Namen (Zeitraum)": "Gasthof Mickten, Eiscafé Mickten",
+      "Straße": "Leipziger Straße 170",
+      "PLZ": "01139",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.081083050000004,
+      "longitude": 13.713616717131744
+    },
+    {
+      "Name": "Milchbar Weiße Gasse",
+      "Straße": "Weiße Gasse 8",
+      "PLZ": "01067",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1. Sept. 1958 - mind. 1988",
+      "Plätze": 186,
+      "Historie": "Sie verfügte über 52 Sitzplätze, 14 Barplätze und 120 Stühle im Gästegarten auf der Weißen Gasse.",
+      "latitude": 51.0495413,
+      "longitude": 13.740918
+    },
+    {
+      "Name": "Mini-Drink",
+      "Straße": "Hauptstraße 1",
+      "PLZ": "01097",
+      "Art der Gastro": "Café, Milchbar",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.05874847832681, 
+      "longitude": 13.741200053516295
+    },
+    {
+      "Name": "Mocca-Eck/ Mokka-Eck",
+      "Straße": "Kopernikusstraße 74",
+      "PLZ": "01129",
+      "Art der Gastro": "Café, Milchbar, Familiengaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": 0,
+      "latitude": 51.0910371,
+      "longitude": 13.7056643
+    },
+    {
+      "Name": "Moreauschänke",
+      "Straße": "Eigenheimstraße 1",
+      "PLZ": "01217",
+      "Historie": "\"Die Gaststätte ist aus dem ehemaligen Dorfgasthof von Kleinpesterwitz entstanden. In Erinnerung an die Schlacht bei Dresden im Jahr 1813, in der der General Jean Victor Moreau schwer verwundet wurde, gaben die späteren Besitzer dem Gasthof den Namen 'Moreauschänke'. Zu DDR-Zeiten war hier ein beliebter Studententreff. 1975 wurde die Schänke zeitweise geschlossen.\"",
+      "latitude": 51.01681155,
+      "longitude": 13.737164081239388
+    },
+    {
+      "Name": "Motel",
+      "Straße": "Münzmeisterstraße 10",
+      "PLZ": "01217",
+      "Betriebszeitraum": "1967 - mind. 1988",
+      "Plätze": 120,
+      "Historie": "Das Haus besaß 140 Betten und 120 Plätze im Restaurant.",
+      "latitude": 51.0225988,
+      "longitude": 13.7396549
+    },
+    {
+      "Name": "Münchner Krug",
+      "Straße": "Bienertstraße 55",
+      "PLZ": "01187",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "Seit 1958 als HO-Gaststätte geführt.",
+      "latitude": 51.0277939,
+      "longitude": 13.7149373
+    },
+    {
+      "Name": "Narrenhäusel Bauarbeitergaststätte",
+      "Straße": "Wiesentorstr. 2",
+      "PLZ": "01097",
+      "Rechtsform": "Konsum-Gaststätte",
+      "Historie": "1974 war es noch ein HO-Gaststätte, 1982 war es bereits eine Konsum-Gaststätte.",
+      "latitude": 51.05696695,
+      "longitude": 13.741673289712773
+    },
+    {
+      "Name": "Neugrunaer Casino",
+      "Straße": "Altenberger Straße 1",
+      "PLZ": "01277",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0434149,
+      "longitude": 13.807612389059104
+    },
+    {
+      "Name": "Neustädter Bierstübel",
+      "Straße": "Dr.-Friedrich-Wolf-Straße 8",
+      "PLZ": "01097",
+      "latitude": 51.06589365,
+      "longitude": 13.74334970975673
+    },
+    {
+      "Name": "Neustädter Bräustübel",
+      "Straße": "Bautzner Straße 65",
+      "PLZ": "01099",
+      "latitude": 51.0635196,
+      "longitude": 13.7580979
+    },
+    {
+      "Name": "Neustädter Faß",
+      "Straße": "Leipziger Straße 28",
+      "PLZ": "01127",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "Di/Mi",
+      "latitude": 51.07108435,
+      "longitude": 13.728532607485477
+    },
+    {
+      "Name": "Nordpol",
+      "Straße": "Kamenzer Straße 62",
+      "PLZ": "01099",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0701125,
+      "longitude": 13.7600482
+    },
+    {
+      "Name": "Nürnberger Ei",
+      "Straße": "Nürnberger Straße 31",
+      "PLZ": "01187",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": 0,
+      "latitude": 51.034838,
+      "longitude": 13.721401
+    },
+    {
+      "Name": "Oberer Gasthof Niederpoyritz",
+      "Straße": "Pillnitzer Landstraße 293",
+      "PLZ": "01326",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "Wohngebietsgaststätte",
+      "Historie": "In der Gaststätte war für 50 und im Freien für 40 Gäste Platz.",
+      "Plätze": 90,
+      "latitude": 51.0538938,
+      "longitude": 13.8152834
+    },
+    {
+      "Name": "Operettentheater",
+      "Straße": "Pirnaer Landstraße 131",
+      "PLZ": "01257",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.012090900000004,
+      "longitude": 13.827447195119952
+    },
+    {
+      "Name": "Parkcafé Pillnitz",
+      "andere frühere Namen (Zeitraum)": " Café Landhaus Carus",
+      "Straße": "Orangeriestraße 27",
+      "PLZ": "01326",
+      "Art der Gastro": "Café, Milchbar",
+      "Historie": "Das Café entstand im ehemaligen Wohnhaus des Arztes, Künstlers und Naturforschers Carl Gustav Carus.",
+      "latitude": 51.0134801,
+      "longitude": 13.8675118
+    },
+    {
+      "Name": "Parkhotel Weißer Hirsch",
+      "Straße": "Bautzner Landstraße 7",
+      "PLZ": "01324",
+      "Art der Gastro": "Großgaststätte",
+      "Betriebszeitraum": "1867 - 1908 | 1908 - mind. 1988",
+      "Ruhetage": 0,
+      "Historie": "Das Hotel war von 1867 bis 1908 in Betrieb, welcher für den Neubau des Parkhotels für einige Zeit eingestellt wurde. Darin befanden sich ein Konzertcafé und ein Bräustübel.",
+      "latitude": 51.0638434,
+      "longitude": 13.8216653
+    },
+    {
+      "Name": "Piccolo",
+      "Straße": "Hauptstraße",
+      "PLZ": "01097",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1979 - mind. 1988",
+      "Historie": "Wurde 1979 eröffnet.",
+      "latitude": 51.06009727757844, 
+      "longitude": 13.743251155365435
+    },
+    {
+      "Name": "Pikant",
+      "andere frühere Namen (Zeitraum)": "Alaunburg, Bierschänke zur Alaunburg",
+      "Straße": "Bischofsweg 17",
+      "PLZ": "01099",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "? - mind. 1988",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.0710802,
+      "longitude": 13.752255749622165
+    },
+    {
+      "Name": "Pilsner Bierbar",
+      "Straße": "Mohnstraße 15",
+      "PLZ": "01127",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0790988,
+      "longitude": 13.722415051763594
+    },
+    {
+      "Name": "Pinguin-Café",
+      "andere frühere Namen (Zeitraum)": "Zoologischer Garten",
+      "Straße": "Tiergartenstraße 1",
+      "PLZ": "01219",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "(1969) 1973 - bis heute",
+      "Ruhetage": 0,
+      "Historie": "Das Café wurde 1969 gebaut, aber 1973 erst nach DD versetzt.",
+      "latitude": 51.0352971,
+      "longitude": 13.7580888
+    },
+    {
+      "Name": "Pirnaisches Tor",
+      "Straße": "Grunaer Straße 5",
+      "PLZ": "01069",
+      "Art der Gastro": "Speiserestaurant; Selbstbedienungsgaststätte; Großgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1969 - mind. 1988",
+      "Ruhetage": "Mo/Di",
+      "Historie": "Die Gaststätte bestand aus einer Selbstbedieungsgaststätte, einem Café und einer Fischgrillbar.",
+      "latitude": 51.0494293,
+      "longitude": 13.746716852631579
+    },
+    {
+      "Name": "Platane",
+      "Straße": "Dorothea-Erxleben-Straße 1a",
+      "PLZ": "01129",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0937319,
+      "longitude": 13.7204152
+    },
+    {
+      "Name": "Rasthaus Neustadt",
+      "Straße": "Fritz-Reuter-Straße 11",
+      "PLZ": "01097",
+      "Betriebszeitraum": "1976 - 1982",
+      "latitude": 51.0725955,
+      "longitude": 13.7435457
+    },
+    {
+      "Name": "Ratskeller",
+      "andere frühere Namen (Zeitraum)": "Ratsweinstuben",
+      "Straße": "Dr.-Külz-Ring 19",
+      "PLZ": "01067",
+      "Art der Gastro": "Großgaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1966 - mind. 1988",
+      "Ruhetage": "So/Mo",
+      "latitude": 51.0475822,
+      "longitude": 13.7402584
+    },
+    {
+      "Name": "Ratskeller",
+      "andere frühere Namen (Zeitraum)": "Ratsweinkeller",
+      "Straße": "Kreuzstraße 2-8",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "Eröffnet wurde der Ratskeller am 31.08.1910. In verschiedenen Gasträumen konnten bis zu 700 Besucher Platz finden. Das Speisen- und Gestränkeangebot galt als preiswert. Am Gaststätteneingang an der Kreuzstraße befand sich die Bacchusfigur der \"Eselreiter\". Die Gaststätte musste zeitweise geschlossen werden und öffnete 1966 wieder seine Türen.",
+      "latitude": 51.0489795,
+      "longitude": 13.7392329
+    },
+    {
+      "Name": "Ratskeller Kaitz",
+      "andere frühere Namen (Zeitraum)": "Restaurant Thalschlößchen",
+      "Straße": "Bannewitzer Straße 12",
+      "PLZ": "01217",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1892 - mind. 1988",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.01294525,
+      "longitude": 13.729637563920074
+    },
+    {
+      "Name": "Ratskeller Pieschen",
+      "andere frühere Namen (Zeitraum)": "Zum Pieschener Ratskeller",
+      "Straße": "Bürgerstraße 77",
+      "PLZ": "01217",
+      "Historie": "War ursprünglich noch im Rathaus Pieschen (Bürgerstraße 68).",
+      "latitude": 51.077289,
+      "longitude": 13.7193717
+    },
+    {
+      "Name": "Rebstock",
+      "Straße": "Niederwaldstraße 10",
+      "PLZ": "01309",
+      "Art der Gastro": "Weinrestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.04893,
+      "longitude": 13.799066
+    },
+    {
+      "Name": "Rendezvous",
+      "andere frühere Namen (Zeitraum)": "Haus der Jugend, (innerhalb des) Hotel Astoria",
+      "Straße": "Strehlener Platz 1",
+      "PLZ": "01219",
+      "Art der Gastro": "Tanzgaststätte",
+      "Betriebszeitraum": "1950 - mind. 1988",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.033575049999996,
+      "longitude": 13.750847650940745
+    },
+    {
+      "Name": "Rennbahngaststätte",
+      "Straße": "Oskar-Röder-Straße 1",
+      "PLZ": "01237",
+      "latitude": 51.0227751,
+      "longitude": 13.7970323
+    },
+    {
+      "Name": "Ring-Café",
+      "Straße": "Dr.-Külz-Ring 9",
+      "PLZ": "01067",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1959 - mind. 1988",
+      "Ruhetage": 0,
+      "Historie": "Anfangs gab es zwei Etagen, später verblieb nur das Erdgeschoss.",
+      "latitude": 51.0477486,
+      "longitude": 13.7354402
+    },
+    {
+      "Name": "Roscherhof",
+      "andere frühere Namen (Zeitraum)": "Schanzes Restaurant",
+      "Straße": "Roscherstraße 1",
+      "PLZ": "01139",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "\"Beliebtes Familienlokal, gepflegte Biere, Speiserestaurant. Umfangreiches Speisenangebot, für Familien geeignet.\"",
+      "latitude": 51.0891668,
+      "longitude": 13.7028997
+    },
+    {
+      "Name": "Sachsenbad",
+      "Straße": "Wurzener Straße 18",
+      "PLZ": "01127",
+      "Art der Gastro": "Bad mit Restaurant",
+      "Historie": " Es gab bspw. Bockwust mit Salat.",
+      "latitude": 51.0814735,
+      "longitude": 13.719169666570842
+    },
+    {
+      "Name": "Sächsischer Hof",
+      "andere frühere Namen (Zeitraum)": "Steinhäuser's Gasthof, Geblers Restaurant",
+      "Straße": "Kyawstraße 2",
+      "PLZ": "01259",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1873 - mind. 1988",
+      "Historie": "1873 von Ernst Friedrich Kretzschmar erbaut; unter Curt Steinberger (gen. 1890): \"Großer schattiger Garten, freundl. Logierzimmer, Billardzimmer, vorzügl. Küche u. Keller, aufmerksame Bedienung, gute Stallung und billige Preise\"",
+      "latitude": 51.0082108,
+      "longitude": 13.8579842
+    },
+    {
+      "Name": "Sächsischer Schütze",
+      "andere frühere Namen (Zeitraum)": "Zum sächsischen Schützen, Neustädter Eberlbräu, Eberlbräu",
+      "Straße": "Schwepnitzer Straße 6",
+      "PLZ": "01097",
+      "latitude": 51.0694877,
+      "longitude": 13.7480805
+    },
+    {
+      "Name": "Saloppe",
+      "Straße": "Brockhausstraße 1",
+      "PLZ": "01099",
+      "Betriebszeitraum": "zwischen 1780 - 1786 entstanden - mind. 1988",
+      "Ruhetage": "Mo/Di",
+      "Historie": "Es wurde zwischen 1780 und 1786 erbaut und war zunächst ein Höhengasthaus mit Café. 1813 stand eine kleine Holzbude in Reißigs Garten. Dort kam es zum Ausschank alkoholischer Getränke. 1821 wurde das bereits Saloppe genannt, aber abgerissen. Der Neubau erfolgte Mitte der 1870er Jahre, wurde jedoch ebenfalls abgerissen. 1879 errichtete man einen modernen Neubau, in dem bis zu 1000 Gäste bei Konzerten und Tanzveranstaltungen gleichzeitig bedient werden konnten. Zwischen 1927 und 1930 wurde es wegen Unrentabilität geschlossen. Nach 1930 allerdings wieder eröffnet.",
+      "latitude": 51.0652495,
+      "longitude": 13.7899011
+    },
+    {
+      "Name": "Sängerheim",
+      "andere frühere Namen (Zeitraum)": "Gasthof Sängerheim",
+      "Straße": "Altsöbrigen 3",
+      "PLZ": "01326",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1770 - mind. 1988",
+      "latitude": 50.9947581,
+      "longitude": 13.8799654
+    },
+    {
+      "Name": "Saxonia-Keller",
+      "andere frühere Namen (Zeitraum)": "Hoppe Keller, Neustädter Bahnhof, Mitropa Bahnhofsgaststätte",
+      "Straße": "Schlesischer Platz 1",
+      "PLZ": "01097",
+      "Art der Gastro": "Bahnhofgaststätte; MITROPA-Gaststätte",
+      "Historie": "Ab 1910 übernahm Theodor Hoppe als Pächtr das Bahnhofsrestaurant Dresden-Neustadt. Der Gaststättenkomplex besaß zwei Säle, jeweils ein Damen- und Herrenzimmer sowie das über die Außentreppe erreichbare Kellerrestaurant \"Hoppe-Keller\". Dies war eine ehemalige Wärmestube für Droschkenkutscher. Während des zweiten Weltkrieges, war er ein Treffpunkt der Dresdner Künstlerwelt. Seit 1971 ist er als Saxonia-Keller bekannt.",
+      "latitude": 51.0660356,
+      "longitude": 13.742578398084113
+    },
+    {
+      "Name": "Saxonia-Klause",
+      "Straße": "Oederaner Straße 22",
+      "PLZ": "01159",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "auch Friedrichstädter Fischhaus; 1985 Gebäude abgerissen",
+      "latitude": 51.0432916,
+      "longitude": 13.7081887
+    },
+    {
+      "Name": "Schäfer-Eck",
+      "andere frühere Namen (Zeitraum)": "Friedrichstädter Fischhaus",
+      "Straße": "Schäferstraße 2a",
+      "PLZ": "01067",
+      "Historie": "Wurde 1985 abgerissen.",
+      "Betriebszeitraum": "bis 1985",
+      "latitude": 51.0580043,
+      "longitude": 13.710267
+    },
+    {
+      "Name": "Schillergarten",
+      "andere frühere Namen (Zeitraum)": "Zum Goldbroiler; Am Blauen Wunder",
+      "Straße": "Schillerplatz 9",
+      "PLZ": "01309",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1683 - heute",
+      "Ruhetage": "Mo/Di",
+      "Historie": "1683 = Churfürstliche Schenke; mehrere Um- und Anbauten bis 1859 -> Restaurant Schillergarten; 1951 in volkseigentum übergegangen; seit 1960 HO; 1985 zeitweise geschlossen; 1911 - 1970 gab es im Schillergarten das Gartenkino \"Elite-Reform-inoSalon\" (ab 1920 \"Schillergarten-Lichtspiele\")",
+      "latitude": 51.0525389,
+      "longitude": 13.8085841
+    },
+    {
+      "Name": "Schloß Altnickern",
+      "Straße": "Altnickern 36",
+      "PLZ": "01239",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 50.9942364,
+      "longitude": 13.7869269
+    },
+    {
+      "Name": "Schlossschänke Pillnitz",
+      "Straße": "August-Böckstiegel-Straße 10",
+      "PLZ": "01326",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0083401,
+      "longitude": 13.8726132
+    },
+    {
+      "Name": "Schmiedeschänke",
+      "andere frühere Namen (Zeitraum)": "Zur Schmiede, Partei und Jugendheim der SED",
+      "Straße": "Hechtstraße 15",
+      "PLZ": "01097",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "10.05.1880 - mind. 1988",
+      "latitude": 51.0733231,
+      "longitude": 13.7465913
+    },
+    {
+      "Name": "Schnellgaststätte Schillerplatz",
+      "Straße": "Schillerplatz 3",
+      "PLZ": "01309",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.05304126004161,
+      "longitude": 13.807357024442444
+    },
+    {
+      "Name": "Schnellimbiß",
+      "Straße": "Oschatzer Straße 19",
+      "PLZ": "01127",
+      "latitude": 51.0763567,
+      "longitude": 13.7242685
+    },
+    {
+      "Name": "Schnellimbiß",
+      "Spitznamen": "Pick-nick",
+      "andere frühere Namen (Zeitraum)": "Gastronom Pick-nick",
+      "Straße": "Grunaer Straße 28 ",
+      "PLZ": "01069",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1961 - mind. 1988",
+      "Ruhetage": "Mi/Do",
+      "Plätze": 85,
+      "Historie": "Als Hotel und Restaurant bzw nur Hotel bezeichnet, aber immer mit Gaststätte",
+      "latitude": 51.046039,
+      "longitude": 13.753631304365406
+    },
+    {
+      "Name": "Schöne Aussicht",
+      "Straße": "Krügerstraße 1",
+      "PLZ": "01326",
+      "Betriebszeitraum": "1905 - heute",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 51.05275625,
+      "longitude": 13.82331167483108
+    },
+    {
+      "Name": "Sekundogenitur",
+      "Straße": "Georg-Treu-Platz 1",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1965 - mind. 1988",
+      "Ruhetage": 0,
+      "Historie": "Mit Tagescafé und Gondelbar.",
+      "latitude": 51.052768,
+      "longitude": 13.7436787
+    },
+    {
+      "Name": "Semperoper",
+      "Straße": "Theaterplatz 2",
+      "PLZ": "01067",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.05453985,
+      "longitude": 13.735226453123046
+    },
+    {
+      "Name": "Sibyllenort",
+      "Straße": "Königsbrücker Straße 44",
+      "PLZ": "01099",
+      "Art der Gastro": "Speisegaststätte",
+      "latitude": 51.068798,
+      "longitude": 13.7485876
+    },
+    {
+      "Name": "Snakbar Webergasse",
+      "Straße": "Webergasse 1a",
+      "PLZ": "01067",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0492107,
+      "longitude": 13.7341982
+    },
+    {
+      "Name": "Spartenheim",
+      "Straße": "Salzburger Straße 80",
+      "PLZ": "01279",
+      "latitude": 51.022353499999994,
+      "longitude": 13.820189611524793
+    },
+    {
+      "Name": "Speisebar",
+      "Straße": "Altmarkt 16/17",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0501759,
+      "longitude": 13.7371767
+    },
+    {
+      "Name": "Sport-Casino",
+      "Straße": "Pieschener Allee 21",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.075228,
+      "longitude": 13.7145578
+    },
+    {
+      "Name": "Sportcasino BSG Post",
+      "Straße": "Hebbelstraße 21b",
+      "PLZ": "01157",
+      "latitude": 51.0558287,
+      "longitude": 13.6866006
+    },
+    {
+      "Name": "Sportcasino der BSG Tiefbau",
+      "Straße": "Oskar-Röder-Straße 4a",
+      "PLZ": "01237",
+      "latitude": 51.0224197,
+      "longitude": 13.7944886
+    },
+    {
+      "Name": "Sportcasino Oberpoyritz",
+      "Straße": "An der Schmiede 10",
+      "PLZ": "01326",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.0002658,
+      "longitude": 13.8972335
+    },
+    {
+      "Name": "Sportcasino Turbine",
+      "Straße": "Pfotenhauerstraße 79",
+      "PLZ": "01307",
+      "latitude": 51.0584764,
+      "longitude": 13.7753378
+    },
+    {
+      "Name": "Sportheim Aufbau-Ost",
+      "Straße": "Käthe-Kollwitz-Ufer 19b",
+      "PLZ": "01307",
+      "latitude": 51.05914768350053, 
+      "longitude": 13.763709040023063
+    },
+    {
+      "Name": "Sportheim Blau-Weß Zschachwitz",
+      "Straße": "Pirnaer Landstraße 267",
+      "PLZ": "01259",
+      "latitude": 50.99660835,
+      "longitude": 13.848935745735162
+    },
+    {
+      "Name": "Sportheim der BSG Empor Tabak",
+      "Straße": "Bärensteiner Straße 31",
+      "PLZ": "01277",
+      "latitude": 51.0390875,
+      "longitude": 13.8054533
+    },
+    {
+      "Name": "Sportheim Empor Felsenkeller",
+      "andere frühere Namen (Zeitraum)": "Sportheim Dötzschen",
+      "Straße": "Am Döltzschengraben 7",
+      "PLZ": "01187",
+      "Historie": "1982 als \"Sportheim der VEB Dresdner Brauereien\" genannt.",
+      "latitude": 51.02616192942896, 
+      "longitude": 13.686524384199663
+    },
+    {
+      "Name": "Sportkasino Philipp-Müller-Stadion",
+      "Straße": "Bodenbacher Straße 154",
+      "PLZ": "01277",
+      "latitude": 51.02246625,
+      "longitude": 13.808599037615384
+    },
+    {
+      "Name": "Sportkasino Rotation",
+      "Straße": "Eisenberger Straße 1a",
+      "PLZ": "01127",
+      "latitude": 51.07141715,
+      "longitude": 13.725364777291823
+    },
+    {
+      "Name": "Sportlerheim Motor Reick",
+      "Straße": "Dohnaer Straße 152",
+      "PLZ": "01239",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.0108036,
+      "longitude": 13.7811607
+    },
+    {
+      "Name": "Stadt Dresden",
+      "Straße": "Straße des 17. Juni",
+      "PLZ": "01257",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0005275,
+      "longitude": 13.8299198
+    },
+    {
+      "Name": "Stadt Dresden",
+      "Straße": "Ockerwitzer Straße 12",
+      "PLZ": "01157",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "zwischen 1958 & 1988 HO",
+      "latitude": 51.0590208,
+      "longitude": 13.682053922578412
+    },
+    {
+      "Name": "Stadt Riesa",
+      "Straße": "Adlergasse 14",
+      "PLZ": "01067",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "WE",
+      "Historie": "im Gebäude heute Kulturverein riesa efau e.V. in dessen Trägerschaft die Gaststätte lag",
+      "latitude": 51.0557335,
+      "longitude": 13.720654632604738
+    },
+    {
+      "Name": "Stadtcafe Ost",
+      "andere frühere Namen (Zeitraum)": "Altenberger Hof",
+      "Straße": "Schandauer Straße 69",
+      "PLZ": "01277",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.039847800000004,
+      "longitude": 13.805510760790499
+    },
+    {
+      "Name": "Stadt-Café West",
+      "Straße": "Warthaer Straße 4",
+      "PLZ": "01157",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.061583,
+      "longitude": 13.6801176
+    },
+    {
+      "Name": "Steirischer Hof",
+      "Straße": "Tauernstraße 30",
+      "PLZ": "01279",
+      "latitude": 51.02344775,
+      "longitude": 13.830814789650812
+    },
+    {
+      "Name": "Strehlener Hof",
+      "andere frühere Namen (Zeitraum)": "Paitzsch's Gasthof, Hotel Duttler, (Hotel) Königshof",
+      "Straße": "Kreischaer Straße 2",
+      "PLZ": "01219",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "vor 1850 | 1958 - 1988",
+      "Ruhetage": 0,
+      "Historie": "1850 befand sich in Strehlen ein \"Palitzscher Gasthof\". Das Haus wurde 1888 abgerissen und 1891 unter Gottfried Duttler als \"Großes Concert- und Balletablissement mit eleganestem Sommer-Spezialitäten-Theater\" eröffnet. Um 1900 wurde aus dem \"Hotel Duttler\" der \"Königshof\". Bis 1914 galt das Hotel als eines der vornehmsten in Dresden und Umgebung. In den 1950ern wurde aus dem Ballsaal eine Verkaufsetwage. Zwischen 1958 und 1988 befand sich im Erdgeschoss die HO-Gaststätte \"Strehlener Hof\" des geschlossenen \"Hotel Königshof\".",
+      "latitude": 51.0277404,
+      "longitude": 13.7602306
+    },
+    {
+      "Name": "Sybillenort",
+      "Straße": "Königsbrücker Straße 44",
+      "PLZ": "01099",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "WE",
+      "latitude": 51.068798,
+      "longitude": 13.7485876
+    },
+    {
+      "Name": "Szeged",
+      "Straße": "Wilsdruffer Straße 4 - 6",
+      "PLZ": "01067",
+      "Art der Gastro": "Spezialitätenrestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1961 - mind. 1988",
+      "Historie": "Es ist eine der ersten ungarischen \"Nationalitätengaststätten\" der DDR. Szeged war Partner der \"Hungar-Hotels\". Es besaß ein typisch ungarisches Flair mir echter \"Zigeunerkapelle\". Nach der Schließung gab es mehrere Versuche das ungarische Kolorit wieder zu beleben, diese scheiterten jedoch. Die Mokkabar Gaststätte befand sich in der 1. Etage.",
+      "latitude": 51.0508999,
+      "longitude": 13.7338819
+    },
+    {
+      "Name": "Tagesbar \"Der Löwe\"",
+      "Straße": "Hauptstraße 42",
+      "PLZ": "01097",
+      "Art der Gastro": "Café, Milchbar",
+      "Betriebszeitraum": "1979 - heute",
+      "latitude": 51.06117180326642, 
+      "longitude": 13.74468708235193
+    },
+    {
+      "Name": "Tagescafé am Bönischplatz",
+      "Straße": "Bönischplatz 15/17",
+      "PLZ": "01307",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "Konsum-Gaststätte",
+      "latitude": 51.0558058,
+      "longitude": 13.7628013
+    },
+    {
+      "Name": "Tagescafé Am Clara-Zetkin-Platz",
+      "Straße": "Reisewitzer Straße 49",
+      "PLZ": "01159",
+      "latitude": 51.0395054,
+      "longitude": 13.701858
+    },
+    {
+      "Name": "Tagescafé am Schloß",
+      "Straße": "Gamigstraße 20",
+      "PLZ": "01239",
+      "Art der Gastro": "Café, Milchbar",
+      "Rechtsform": "Konsum-Gaststätte",
+      "latitude": 51.0076552,
+      "longitude": 13.7951186
+    },
+    {
+      "Name": "Tagescafé Haus Altmarkt",
+      "andere frühere Namen (Zeitraum)": "Tanzbar (Haus Altmarkt)",
+      "Straße": "Wilsdruffer Straße 19",
+      "PLZ": "01067",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0499239,
+      "longitude": 13.7391995
+    },
+    {
+      "Name": "Tagescafé Müller",
+      "Straße": "Burgkstraße 78",
+      "PLZ": "01159",
+      "Art der Gastro": "Café, Milchbar",
+      "latitude": 51.0479972,
+      "longitude": 13.69703
+    },
+    {
+      "Name": "Tanzbar (Waldparkhotel)",
+      "Straße": "Prellerstraße 16",
+      "PLZ": "01309",
+      "Art der Gastro": "Tanzbar",
+      "latitude": 51.05360745,
+      "longitude": 13.799071233568686
+    },
+    {
+      "Name": "Tanzbar Baltic (Interhotel Newa)",
+      "Straße": "St. Petersburger Straße 34",
+      "PLZ": "01069",
+      "Art der Gastro": "Tanzbar",
+      "latitude": 51.0422659,
+      "longitude": 13.7356805
+    },
+    {
+      "Name": "Tanzcafé und Restaurant Grießbach",
+      "Straße": "Neuimptscher Straße 28",
+      "PLZ": "01169",
+      "latitude": 51.03529754692975, 
+      "longitude": 13.673921782350863
+    },
+    {
+      "Name": "Tharandter Hof",
+      "andere frühere Namen (Zeitraum)": "Plauschener Hof",
+      "Straße": "Hofmühlenstraße 71",
+      "PLZ": "01187",
+      "latitude": 51.0304828,
+      "longitude": 13.702554641369927
+    },
+    {
+      "Name": "Trachenberger Hof",
+      "Straße": "Trachenberger Straße 51",
+      "PLZ": "01129",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Di/Mi",
+      "latitude": 51.0877511,
+      "longitude": 13.7294808
+    },
+    {
+      "Name": "Trompeter ",
+      "Straße": "Bautzener Landstraße 83",
+      "PLZ": "01324",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "1870 - heute",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.06270685513207, 
+      "longitude": 13.837253840023159
+    },
+    {
+      "Name": "Unterer Gasthof Lockwitz",
+      "Straße": "Dohnaer Straße 217",
+      "PLZ": "01257",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "vor 1891 - mind. 1988",
+      "Ruhetage": "Mo/Di",
+      "Historie": "\"Dem alten Gasthof wurde 1891/95 ein Saal und 1897 eine Veranda sowie die Musikhalle angebaut. Nach 1945 als Jugendtanzzentrum genutzt.\"",
+      "latitude": 50.9895133,
+      "longitude": 13.8116458
+    },
+    {
+      "Name": "Volkshaus Laubegast",
+      "andere frühere Namen (Zeitraum)": "Stadt Amsterdam, Gasthof Laubegast",
+      "Straße": "Laubegaster Ufer 22",
+      "PLZ": "01279",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1900 - 1989",
+      "Historie": "1900 baute Moritz Saupe das \"Stadt Amsterdam\" um und richtete 15 Fremdenzimmer ein. Während es zweiten Weltkrieges wurde es als Kriegsgefangenenlager benutzt. 1947 wurde es zum \"Volkshaus\" umgewandelt. Im Jahr darauf fand das Eröffnungskonzert im großen Saal statt. Ab 1951 gehörte das Haus der HO und wurde zeitweise geschlossen. 1974 erfolgte die Wiedereröffnung als HO-Gaststätte \"Volkshaus Laubegast\". 1989 wurde es geschlossen.",
+      "latitude": 51.0241579,
+      "longitude": 13.8403204
+    },
+    {
+      "Name": "Volkshaus West",
+      "andere frühere Namen (Zeitraum)": "Stadtbezirkskulturhaus West",
+      "Straße": "Hebbelstraße 35b",
+      "PLZ": "01157",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.052507649999995,
+      "longitude": 13.684631825476973
+    },
+    {
+      "Name": "Waldcafé",
+      "andere frühere Namen (Zeitraum)": "Lesehalle",
+      "Straße": "Bautzner Landstraße 17a",
+      "PLZ": "01324",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.0640584,
+      "longitude": 13.824126017460316
+    },
+    {
+      "Name": "Walderseehof",
+      "andere frühere Namen (Zeitraum)": "Krenkelhof, Zum Grafen Waldersee",
+      "Straße": "Krenkelstraße 12",
+      "PLZ": "01309",
+      "latitude": 51.044318,
+      "longitude": 13.775115
+    },
+    {
+      "Name": "Waldfrieden",
+      "andere frühere Namen (Zeitraum)": "Bobes Restaurant",
+      "Straße": "Schlömilchstraße 1",
+      "PLZ": "01279",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.03503445,
+      "longitude": 13.818006341529674
+    },
+    {
+      "Name": "Waldparkhotel",
+      "Straße": "Prellerstraße 16",
+      "PLZ": "01309",
+      "Art der Gastro": "Hotel-Gaststätte",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "1869 - mind. 1988",
+      "Historie": "Kurz nach der Gründung des Waldparks wurde auch das Hotel gegründet. Anfangs wurde s noch als \"Kur- und Naturheilanstalt\" unter Johann Georg Faller betrieben. Als Dr. Fischer das Haus übernahm, wandelte es in eine Heilanstalt um und benannt sie \"Waldpark-Sanatorium\". Am 16.Dezember 1947 eröffnete das \"Waldparkhotel\", welches 1988 noch als HO-Gaststätte vorhanden war.",
+      "latitude": 51.05360745,
+      "longitude": 13.799071233568686
+    },
+    {
+      "Name": "Waldpark-Restaurant",
+      "Straße": "Berthold-Haupt-Straße 91",
+      "PLZ": "01259",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.0082226,
+      "longitude": 13.8488679
+    },
+    {
+      "Name": "Wallterasse",
+      "Spitznamen": "Bauarbeitergaststätte",
+      "andere frühere Namen (Zeitraum)": "Freiluftgaststätte",
+      "Straße": "Wallstraße 11",
+      "PLZ": "01067",
+      "Art der Gastro": "Selbstbedienungsgaststätte",
+      "Rechtsform": "Konsum-Gaststätte",
+      "latitude": 51.0492738,
+      "longitude": 13.7343217
+    },
+    {
+      "Name": "Wehlener Hof",
+      "Straße": "Schaufußstraße 35",
+      "PLZ": "01277",
+      "Rechtsform": "HO-Gaststätte",
+      "latitude": 51.03764785,
+      "longitude": 13.810436187964285
+    },
+    {
+      "Name": "Weinbergbaude",
+      "Straße": "Weinbergstraße 83",
+      "PLZ": "01129",
+      "latitude": 51.0968554,
+      "longitude": 13.7252182
+    },
+    {
+      "Name": "Weinbergschänke Pillnitz",
+      "Straße": "Am Rathaus 4",
+      "PLZ": "01326",
+      "Art der Gastro": "Speiserestaurant",
+      "Ruhetage": "Mi/Do",
+      "latitude": 51.0126486,
+      "longitude": 13.8725592
+    },
+    {
+      "Name": "Weinrestaurant Bacchus",
+      "andere frühere Namen (Zeitraum)": "Löbtauer Bacchus",
+      "Straße": "Clara-Zetkin-Straße 15",
+      "PLZ": "01159",
+      "Art der Gastro": "Weinrestaurant, bartypisches Speisenangebot",
+      "latitude": 51.03783205,
+      "longitude": 13.697979371261468
+    },
+    {
+      "Name": "Weinrestaurant Staffelstein",
+      "Straße": "Staffelsteinstraße 73",
+      "PLZ": "01326",
+      "latitude": 51.0305324,
+      "longitude": 13.8465417
+    },
+    {
+      "Name": "Weißer Adler",
+      "Straße": "Stollestraße 20",
+      "PLZ": "01159",
+      "latitude": 51.0453361,
+      "longitude": 13.69663644520354
+    },
+    {
+      "Name": "Weißes Röss'l",
+      "andere frühere Namen (Zeitraum)": "Deutsche Bierhalle, Zum Weißen Rössl, Weißes Roß",
+      "Straße": "Friedrichstraße 37",
+      "PLZ": "01067",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Ruhetage": "Mo/Di",
+      "latitude": 51.058780999999996,
+      "longitude": 13.721047584245845
+    },
+    {
+      "Name": "Winzertstube Alt-Dresden",
+      "andere frühere Namen (Zeitraum)": "Zur Hopfenblüte, Pieschener Bärenschänke (1958)",
+      "Straße": "Oschatzer Straße 26",
+      "PLZ": "01127",
+      "Plätze": 60,
+      "Historie": "Nach 1945 von \"Intourist\" genutzt. Gaststätte schloss in den 1970ern, ausgenommen der Winzerstube im Keller. Wandspruch:\"Alt-Dresden sei Dein gastlich Haus\"",
+      "latitude": 51.07651545,
+      "longitude": 13.724912508231952
+    },
+    {
+      "Name": "Wittenberger Hof",
+      "Straße": "Antonstraße 19",
+      "PLZ": "01097",
+      "Art der Gastro": "Weinrestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "mind. von 1945 bis 1988",
+      "Historie": "auch Zum Wittenberger Hof",
+      "latitude": 51.0644141,
+      "longitude": 13.7418702
+    },
+    {
+      "Name": "Wormser Hof",
+      "Straße": "Bergmannstraße 27",
+      "PLZ": "01309",
+      "latitude": 51.0453189,
+      "longitude": 13.7900707
+    },
+    {
+      "Name": "Wroclaw (in International)",
+      "Straße": "Prager Straße 15",
+      "PLZ": "01069",
+      "Art der Gastro": "Spezialitätenrestaurant",
+      "latitude": 51.0456978,
+      "longitude": 13.7361897
+    },
+    {
+      "Name": "Zschoner Mühle",
+      "andere frühere Namen (Zeitraum)": "Schonermühle",
+      "Straße": "Zschonergrund 2",
+      "PLZ": "01156",
+      "Art der Gastro": "Speiserestaurant",
+      "Betriebszeitraum": "um 1570 - 1950 & ab 1985",
+      "Historie": "1570 wurde die Mühle das erste Mal erwähnt. Der Mahlbetrieb wurde 1917 eingestellt. Die Gastwirtschaft bestand bis 1950. Der neue Besitzer Thomas Winkler übernahm die Mühle am 1.Mai 1985 und machte sie wieder gastronomisch nutzbar.",
+      "latitude": 51.0588347,
+      "longitude": 13.6409153
+    },
+    {
+      "Name": "Zum Echo",
+      "Straße": "Robert-Matzke-Straße 56",
+      "PLZ": "01127",
+      "Art der Gastro": "Nichtraucherrestaurant",
+      "Historie": "Seit 1971 ist die Gaststätte ein Nichtraucherlokal und wirbt mit einem \"gutem Speisenangebot ohne Mittagstisch\".",
+      "latitude": 51.0793462,
+      "longitude": 13.7149056
+    },
+    {
+      "Name": "Zum Grünen Heinrich",
+      "andere frühere Namen (Zeitraum)": "Hut ab",
+      "Straße": "Leutewitzer Ring 143",
+      "PLZ": "01169",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "Wohngebietsgaststätte",
+      "Ruhetage": 0,
+      "Historie":"Besaß eine Kegelbahn, die auch nach der Schließung noch genutzt wurde sowie einen Weinkeller. 2021/22 wurde das Gebäude abgerissen und Studentenwohnungen gebaut.",
+      "Bilder": [
+        {
+            "url":"https://fotothek.slub-dresden.de/fotos/df/hauptkatalog/0401000/df_hauptkatalog_0401937.jpg",
+            "alt":"Blick vom Hochhaus, Platz der Bauarbeiter 9, über den Platz der Bauarbeiter mit der 135. Schule, der Gaststätte 'Zum Grünen Heinrich' und der 133./134. Schule, über den Leutewitzer Ring nach Norden zu den Lößnitzhöhen",
+            "bildunterschrift":"Ahlers, Henrik: Dresden-Gorbitz. Blick vom HOchaus auf die Gaststätte und Umgebung, 1990"
+        },
+        {
+            "url":"https://fotothek.slub-dresden.de/fotos/df/hauptkatalog/0413000/df_hauptkatalog_0413140.jpg",
+            "alt":"Gedenstein für die Grundsteinlegung vom Wohngebiet Dresden-Gorbitz",
+            "bildunterschrift":"Ahlers, Henrik: Platz der Bauarbeiter, 1991"
+        }
+      ],
+      "latitude": 51.0458167,
+      "longitude": 13.6778072
+    },
+    {
+      "Name": "Zum guten Tröpfchen",
+      "andere frühere Namen (Zeitraum)": "Gutes Tröpfchen",
+      "Straße": "Breitscheidstraße 53",
+      "PLZ": "01237",
+      "latitude": 51.01344505,
+      "longitude": 13.811393701502997
+    },
+    {
+      "Name": "Zum Hirsch",
+      "Straße": "Pirnaer Landstraße 197",
+      "PLZ": "01257",
+      "Historie": "\"geräumiges Vereinszimmer und schöner Garten\"",
+      "latitude": 51.0067075,
+      "longitude": 13.8374304
+    },
+    {
+      "Name": "Zum Kammergut",
+      "andere frühere Namen (Zeitraum)": "Menageriegärten",
+      "Straße": "Friedrichstraße 58",
+      "PLZ": "01067",
+      "Historie": "Von 1921 bis 1986 wurde die Gaststätte, in der dazugehörenden Kleingartenanlage, als \"Menageriegärten\" bewirtschaftet. Ab 1991 als Zum Kammergut bezeichnet.",
+      "latitude": 51.0603691,
+      "longitude": 13.717406050000001
+    },
+    {
+      "Name": "Zum Rothenburger Bräustübl",
+      "Straße": "Rothenburger Straße 11",
+      "PLZ": "01099",
+      "Betriebszeitraum": "vor 1943 - mind. 1988",
+      "latitude": 51.0649387,
+      "longitude": 13.7530236
+    },
+    {
+      "Name": "Zum Stern Prohlis",
+      "Straße": "Prohliser Allee 6",
+      "PLZ": "01239",
+      "Art der Gastro": "Speiserestaurant, Tanzgaststätte",
+      "Rechtsform": "Wohngebietsgaststätte",
+      "latitude": 51.0072304,
+      "longitude": 13.8009425
+    },
+    {
+      "Name": "Zum Vorwerk",
+      "andere frühere Namen (Zeitraum)": "Pallacks Gaststätte",
+      "Straße": "Vorwerkstraße 1",
+      "PLZ": "01067",
+      "Betriebszeitraum": "1921 - mind. 1988",
+      "Historie": "Die Gaststätte wurde bis 1970 genutzt. Bis 1975 beherbergte sie die Volkssolidarität und war danach als Gaststätte \"Zum Vorwerk\" wieder in Betrieb.",
+      "latitude": 51.0580408,
+      "longitude": 13.713521188613448
+    },
+    {
+      "Name": "Zum Windmühlenberg",
+      "Straße": "Gluckstraße 13",
+      "PLZ": "01309",
+      "Art der Gastro": "Speiserestaurant",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "\"1971 Gaststätte als Wohngebietsgaststätte mit kleineren Gesellschaftsräumen geführt\"",
+      "latitude": 51.0516987,
+      "longitude": 13.7778607
+    },
+    {
+      "Name": "Zur Börse",
+      "andere frühere Namen (Zeitraum)": "Börse",
+      "Straße": "Gartenstraße 20",
+      "PLZ": "01156",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "bis mind. 1982",
+      "latitude": 51.08838650812298, 
+      "longitude": 13.651118238175076
+    },
+    {
+      "Name": "Zur Einheit",
+      "Spitznamen": "Einheit",
+      "andere frühere Namen (Zeitraum)": "(Zum) Fürstenhof",
+      "Straße": "Riegelplatz 6",
+      "PLZ": "01139",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "1898 wurde das Gebäude errichtet. F.A. Hegewald erhielt im Februar 1900 die Konzession und nannte es \"Zum Fürstenhof\". Seit 1950 lief es unter dem Namen \"Gaststätte zur Einheit\" oder wurde kurz \"Einheit\" genannt.",
+      "latitude": 51.0840841,
+      "longitude": 13.6866978
+    },
+    {
+      "Name": "Zur Einkehr",
+      "Straße": "Karlsruher Straße 1",
+      "PLZ": "01189",
+      "latitude": 51.0189168,
+      "longitude": 13.706168368258666
+    },
+    {
+      "Name": "Zur fröhlichen Wiederkehr/ Fröhliche Wiederkehr",
+      "Straße": "Maxim-Gorki-Straße 36",
+      "PLZ": "01127",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 51.089128099999996,
+      "longitude": 13.730411575917827
+    },
+    {
+      "Name": "Zur Krone Bühlau",
+      "Straße": "Quohrener Straße 43",
+      "PLZ": "01324",
+      "Betriebszeitraum": "1870 - mind. 1988",
+      "Historie": "Das Gasthaus wurde im März 1870 eröffnet.",
+      "latitude": 51.0570453,
+      "longitude": 13.861457650000004
+    },
+    {
+      "Name": "Zur Myrte",
+      "Straße": "Bramschstraße 2",
+      "PLZ": "01159",
+      "Art der Gastro": "Speiserestaurant",
+      "latitude": 51.0488481,
+      "longitude": 13.6947332
+    },
+    {
+      "Name": "Zur Nachtigall",
+      "Straße": "Tieckstraße 3",
+      "PLZ": "01099",
+      "latitude": 51.061238849999995,
+      "longitude": 13.751129337350445
+    },
+    {
+      "Name": "Zur Post",
+      "andere frühere Namen (Zeitraum)": "Pieschener Grilleck, Jahs Gaststätten",
+      "Straße": "Bürgerstraße 36",
+      "PLZ": "01127",
+      "Rechtsform": "HO-Gaststätte",
+      "Historie": "\"Das Speisehaus der Neustadt\"",
+      "latitude": 51.0771581,
+      "longitude": 13.7248406
+    },
+    {
+      "Name": "Zur Schmiede",
+      "andere frühere Namen (Zeitraum)": "Schmiedeschänke",
+      "Straße": "Bautzner Landstraße 158",
+      "PLZ": "01324",
+      "Rechtsform": "HO-Gaststätte",
+      "Betriebszeitraum": "10.03.1880 - mind. 1988",
+      "Historie": "\"Eigene Fleischerei, gut bürgerl. Mittagstisch zu jeder Tageszeit, diverse Getränke\"",
+      "latitude": 51.061285299999994,
+      "longitude": 13.856050596458383
+    }
+  ]
+  
