@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow: hidden; /* Verhindere, dass die Seite beim Öffnen des Overlays scrollt */
+}
+
+.menu-container {
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #000;
+    color: white;
+    top: 0;
+    width: 20%;
+}
+
+#searchInput {
+    height: 31px;
+    font-size: 16px;
+    margin-right: 10px; /* Add margin to the right */
+}
+
+.menu {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Fixed sidenav, full height */
+.sidenav {
+    max-width: 20%;
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 999;
+    top: 75px;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Style the sidenav links and the dropdown button */
+.sidenav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    transition: 0.3s;
+    width: 100%; /* Ensure full width */
+    margin-left: 20px; /* Adjust the left margin as needed */
+}
+
+.dropdown-btn {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    transition: 0.3s;
+    background-color: black;
+    margin-left: 20px; /* Adjust the left margin as needed */
+}
+
+/* On mouse-over */
+.sidenav a:hover, 
+.dropdown-btn:hover {
+    color: #f1f1f1;
+}
+
+/* Add an active class to the active dropdown button */
+.active {
+    background-color: green;
+    color: white;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+    display: none;
+    padding-left: 25px;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.sidenav.open {
+    width: 100%;
+}
+
+.sidenav.reverse-animation {
+    width: 0;
+}
+
+#map-container {
+    height: calc(100vh - 40px);
+    z-index: 1;
+}
+
+/* Override Leaflet popup styles for custom map */
+#map-container .leaflet-popup-content-wrapper {
+    overflow: auto;
+}
+
+#map-container .leaflet-popup-content {
+    max-height: 300px;
+    max-width: 320px;
+}
