@@ -1,2 +1,3 @@
 # GastroProjekt
-- interaktive Karte mit historischem Hintergund (historische Karte) zu der Gastronomie der 1980er Jahre in Dresden
+- Interactive map with historical background (historical map) on gastronomy in Dresden in the 1980s
+- about 300 restaurants in the city
