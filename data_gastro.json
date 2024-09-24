@@ -2219,8 +2219,8 @@
       "Rechtsform": "Wohngebietsgaststätte",
       "Historie": "In der Gaststätte war für 50 und im Freien für 40 Gäste Platz.",
       "Plätze": 90,
-      "latitude": 51.0538938,
-      "longitude": 13.8152834
+      "latitude": 51.02892098893535, 
+      "longitude": 13.846871025129744
     },
     {
       "Name": "Operettentheater",
@@ -2494,7 +2494,7 @@
     },
     {
       "Name": "Schillergarten",
-      "andere frühere Namen (Zeitraum)": "Zum Goldbroiler; Am Blauen Wunder",
+      "andere frühere Namen (Zeitraum)": "Am Blauen Wunder",
       "Straße": "Schillerplatz 9",
       "PLZ": "01309",
       "Rechtsform": "HO-Gaststätte",
