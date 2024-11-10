@@ -180,3 +180,128 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
         return null;
     }
 }
+    // --------- Button Es feht was? (Erweiterung durch Nutzende) --------------
+    // Event Listener für Button und Formular
+    document.getElementById("addGastroButton").addEventListener("click", openModal);
+    document.getElementById("addGastroForm").addEventListener("submit", handleFormSubmit);
+
+    const existingNames = []; // Hier deine Gaststätten aus .json laden und Namen hinzufügen
+   
+    // JSON-Datei laden und Namen extrahieren
+    fetch("data_gastro.json") // Passe den Pfad zu deiner JSON-Datei an
+    .then(response => response.json())
+    .then(data => {
+        data.forEach(gastro => existingNames.push(gastro.Name));
+        console.log("Laden abgeschlossen:", existingNames); // Zum Testen, zeigt alle geladenen Namen in der Konsole
+    })
+    .catch(error => console.error("Fehler beim Laden der JSON-Datei:", error));
+
+    function openModal() {
+        document.getElementById("gastroModal").style.display = "block";
+    }
+
+    function closeModal() {
+        document.getElementById("gastroModal").style.display = "none";
+    }
+
+    function handleFormSubmit(event) {
+        event.preventDefault();
+        const name = document.getElementById("Name").value.trim();
+        const formData ={
+            Name: name,
+            Betriebszeitraum: document.getElementById("Betriebszeitraum").value.trim(),
+            Straße: document.getElementById("Straße").value.trim(),
+            PLZ: document.getElementById("PLZ").value.trim(),
+            Historie: document.getElementById("Historie").value,
+            latitude: document.getElementById("latitude").value,
+            longitude: document.getElementById("longitude").value
+        };
+
+        if (existingNames.includes(name)) {
+            alert("Diese Gaststätte existiert bereits.");
+            sendTelegramNotification(formData); // Senden der Telegram-Benachrichtigung bei Duplikat
+        } else {
+            addToJSON(formData);
+            closeModal();
+            alert("Gaststätte erfolgreich hinzugefügt.");
+        }
+    }
+
+    
+    // Funktion zur JSON-Aktualisierung
+    function addToJSON(newGastro) {
+        gaststaettenList.push(newGastro);
+        console.log("Neue Gaststätte hinzugefügt:", newGastro);
+    }
+
+    //------------ Bot für Benachrichtigungen -----------
+    const BOT_TOKEN = "7588283433:AAG4TW8LKUQAD3Dqzut3ygiN9eWu05faUks"; // Ersetze durch deinen Bot-Token
+    const CHAT_ID = "634934180";     // Ersetze durch deine Chat-ID
+
+    // Benachrichtigung bei Änderung bzw Duplikat
+    function sendTelegramNotification(formData) {
+        const message = `⚠️ Duplikat/Änderungen gefunden:
+    - Name: ${formData.Name}
+    - Betriebszeit: ${formData.Betriebszeitraum}
+    - Straße: ${formData.Straße}
+    - PLZ: ${formData.PLZ}
+    - Historie: ${formData.Historie}
+    - Breitengrad: ${formData.latitude}
+    - Längengrad: ${formData.longitude}`;
+
+        const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
+        
+        fetch(url, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                chat_id: CHAT_ID,
+                text: message
+            })
+        })
+        .then(response => {
+            if (response.ok) {
+                console.log("Telegram-Benachrichtigung gesendet.");
+            } else {
+                console.error("Fehler beim Senden der Telegram-Benachrichtigung:", response.statusText);
+            }
+        })
+        .catch(error => console.error("Fehler:", error));
+    }
+
+    // Benachrichtigung bei Neuem Eintrag
+        function sendNewEntryNotification(formData) {
+            const message = `✅ Neuer Eintrag hinzugefügt:
+            - Name: ${formData.Name}
+            - Betriebszeit: ${formData.Betriebszeitraum}
+            - Straße: ${formData.Straße}
+            - PLZ: ${formData.PLZ}
+            - Historie: ${formData.Historie}
+            - Breitengrad: ${formData.latitude}
+            - Längengrad: ${formData.longitude}`;
+
+            
+                const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
+                
+                fetch(url, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                        chat_id: CHAT_ID,
+                        text: message
+                    })
+                })
+                .then(response => {
+                    if (response.ok) {
+                        console.log("Telegram-Benachrichtigung für neuen Eintrag gesendet.");
+                    } else {
+                        console.error("Fehler beim Senden der Benachrichtigung:", response.statusText);
+                    }
+                })
+                .catch(error => console.error("Fehler:", error));
+            }
+        
