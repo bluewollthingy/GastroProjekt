@@ -57,6 +57,17 @@ body {
     margin-left: 20px; /* Adjust the left margin as needed */
 }
 
+.button {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    transition: 0.3s;
+    background-color: black;
+    margin-left: 20px; /* Adjust the left margin as needed */
+}
+
 .dropdown-btn {
     display: block;
     padding: 10px;
@@ -116,3 +127,50 @@ body {
     max-height: 300px;
     max-width: 320px;
 }
+
+#gastroModal {
+    color: white; /* Weißer Text */
+    background-color: #222; /* Dunkler Hintergrund */
+    padding: 20px;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1001;
+}
+
+#gastroModal h2 {
+    color: #f1f1f1; /* Hellere Farbe für Überschrift */
+}
+
+#gastroModal form label {
+    color: #ccc; /* Hellgrau für Labels */
+    margin-top: 10px;
+    display: block;
+}
+
+#gastroModal form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #aaa;
+    color: black; /* Schwarzer Text für Eingabefelder */
+    background-color: white; /* Weißer Hintergrund für Eingabefelder */
+}
+
+#gastroModal form button[type="submit"] {
+    background-color: #444;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#gastroModal form button[type="submit"]:hover {
+    background-color: #666;
+}
+
