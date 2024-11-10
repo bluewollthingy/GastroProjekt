@@ -221,6 +221,7 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
             alert("Diese Gaststätte existiert bereits.");
             sendTelegramNotification(formData); // Senden der Telegram-Benachrichtigung bei Duplikat
         } else {
+            console.log("Neuer Eintrag erkann, sende Benachrichtigung:", formData);
             sendNewEntryNotification(formData);//Telegram-Benachrichtigung bei neuem Eintrag
             closeModal();
             alert("Gaststätte erfolgreich hinzugefügt.");
