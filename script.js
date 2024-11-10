@@ -185,10 +185,10 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
     document.getElementById("addGastroButton").addEventListener("click", openModal);
     document.getElementById("addGastroForm").addEventListener("submit", handleFormSubmit);
 
-    const existingNames = []; // Hier deine Gaststätten aus .json laden und Namen hinzufügen
+    const existingNames = [];
    
     // JSON-Datei laden und Namen extrahieren
-    fetch("data_gastro.json") // Passe den Pfad zu deiner JSON-Datei an
+    fetch("data_gastro.json")
     .then(response => response.json())
     .then(data => {
         data.forEach(gastro => existingNames.push(gastro.Name));
@@ -235,8 +235,8 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
     }
 
     //------------ Bot für Benachrichtigungen -----------
-    const BOT_TOKEN = "7588283433:AAG4TW8LKUQAD3Dqzut3ygiN9eWu05faUks"; // Ersetze durch deinen Bot-Token
-    const CHAT_ID = "634934180";     // Ersetze durch deine Chat-ID
+    const BOT_TOKEN = "7588283433:AAG4TW8LKUQAD3Dqzut3ygiN9eWu05faUks";
+    const CHAT_ID = "634934180";
 
     // Benachrichtigung bei Änderung bzw Duplikat
     function sendTelegramNotification(formData) {
