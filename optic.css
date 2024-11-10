@@ -57,7 +57,7 @@ body {
     margin-left: 20px; /* Adjust the left margin as needed */
 }
 
-.button {
+#addGastroButton {
     display: block;
     padding: 10px;
     text-decoration: none;
