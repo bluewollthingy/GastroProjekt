@@ -37,25 +37,32 @@
             <a href="#" class="Art der Gastro">Weinrestaurant</a>
           </div>
         
-        <button id="addGastroButton">Es fehlt was?</button>
+        <button class="button" id="addGastroButton">Es fehlt was?</button>
         <!-- Modal für das Formular -->
         <div id="gastroModal" style="display:none;">
             <h2>Gaststätte hinzufügen</h2>
             <form id="addGastroForm">
-                <label for="name">Name der Gaststätte:</label>
-                <input type="text" id="name" name="name" required>
+                <label for="Name">Name der Gaststätte:</label>
+                <input type="text" id="Name" name="Name" required></br>
                 
-                <label for="operatingTime">Betriebszeit:</label>
-                <input type="text" id="operatingTime" name="operatingTime">
+                <label for="Betriebszeitraum">Betriebszeitraum:</label>
+                <input type="text" id="Betriebszeitraum" name="Betriebszeitraum"></br>
 
-                <label for="history">Historie:</label>
-                <input type="text" id="history" name="histroy">
+                <label for="Straße">Straße:</label>
+                <input type="text" id="Straße" name="Straße"></br>
 
-                <label for="street">Straße:</label>
-                <input type="text" id="street" name="street">
+                <label for="PLZ">PLZ:</label>
+                <input type="number" id="PLZ" name="PLZ"></br>
 
-                <label for="plz">PLZ:</label>
-                <input type="number" id="plz" name="plz">
+                <label for="Historie">Historie:</label>
+                <input type="text" id="Historie" name="Historie"></br>
+
+                <label for="latitude">Breitengrad:</label>
+                <input type="number" id="latitude" name="latitude" step="0.000001">
+
+                <label for="longitude">Längengrad:</label>
+                <input type="number" id="longitude" name="longitude" step="0.000001">
+
                 <!-- Füge hier zusätzliche Felder hinzu, basierend auf .json-Struktur -->
                 <button type="submit">Eintragen</button>
                 <button type="button" onclick="closeModal()">Abbrechen</button>
