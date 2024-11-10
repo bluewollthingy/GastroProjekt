@@ -296,6 +296,7 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
                     })
                 })
                 .then(response => {
+                    console.log("Response status:", response.status);
                     if (response.ok) {
                         console.log("Telegram-Benachrichtigung für neuen Eintrag gesendet.");
                     } else {
