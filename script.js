@@ -227,13 +227,6 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
         }
     }
 
-    
-    // Funktion zur JSON-Aktualisierung
-    function addToJSON(newGastro) {
-        gaststaettenList.push(newGastro);
-        console.log("Neue Gaststätte hinzugefügt:", newGastro);
-    }
-
     //------------ Bot für Benachrichtigungen -----------
     const BOT_TOKEN = "7588283433:AAG4TW8LKUQAD3Dqzut3ygiN9eWu05faUks";
     const CHAT_ID = "634934180";
