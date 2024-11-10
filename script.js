@@ -180,7 +180,7 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
         return null;
     }
 }
-    // --------- Button Es feht was? (Erweiterung durch Nutzende) --------------
+    // --------- Button "Es feht was?" (Erweiterung durch Nutzende) --------------
     // Event Listener für Button und Formular
     document.getElementById("addGastroButton").addEventListener("click", openModal);
     document.getElementById("addGastroForm").addEventListener("submit", handleFormSubmit);
@@ -221,7 +221,7 @@ marker.bindPopup(popupContent, { maxHeight: 300, maxWidth: 320});
             alert("Diese Gaststätte existiert bereits.");
             sendTelegramNotification(formData); // Senden der Telegram-Benachrichtigung bei Duplikat
         } else {
-            addToJSON(formData);
+            sendNewEntryNotification(formData);//Telegram-Benachrichtigung bei neuem Eintrag
             closeModal();
             alert("Gaststätte erfolgreich hinzugefügt.");
         }
